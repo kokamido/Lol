@@ -7,6 +7,11 @@
       <e p="ConsoleApp1" t="IncludeRecursive">
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
+        <e p="ShaderHelper.cs" t="Include" />
+        <e p="Shaders" t="Include">
+          <e p="FragmentShader" t="Include" />
+          <e p="VertexShader" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

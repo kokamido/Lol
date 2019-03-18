@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="182481fc-24b9-4b85-890b-0ad2d818c76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
     </list>
@@ -23,19 +26,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
+            <state relative-caret-position="401">
+              <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
               <folding>
-                <marker date="1552915406185" expanded="false" signature="6:122" ph="..." />
-                <marker date="1552915406185" expanded="true" signature="145:5836" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="172:292" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="205:286" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="341:5834" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="769:908" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="973:5681" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="1121:1275" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="1333:1488" ph="{...}" />
-                <marker date="1552915406185" expanded="true" signature="5748:5828" ph="{...}" />
+                <marker date="1552920203248" expanded="false" signature="6:139" ph="..." />
+                <marker date="1552920203248" expanded="true" signature="162:3959" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="189:309" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="222:303" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="358:3957" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="786:925" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="978:998" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="1063:3804" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="1211:1331" ph="{...}" />
+                <marker date="1552920203248" expanded="true" signature="3871:3951" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+              <folding>
+                <marker date="1552918960661" expanded="true" signature="6:49" ph="..." />
+                <marker date="1552918960661" expanded="true" signature="72:836" ph="{...}" />
+                <marker date="1552918960661" expanded="true" signature="111:834" ph="{...}" />
+                <marker date="1552918960661" expanded="true" signature="219:378" ph="{...}" />
+                <marker date="1552918960661" expanded="true" signature="576:828" ph="{...}" />
+                <marker date="1552918960661" expanded="true" signature="681:782" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,12 +67,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ConsoleApp1/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
       </list>
     </option>
@@ -77,32 +100,6 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SDK" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -168,12 +165,12 @@
       <workItem from="1552751144699" duration="2427000" />
       <workItem from="1552754911964" duration="3868000" />
       <workItem from="1552835396867" duration="5616000" />
-      <workItem from="1552914406352" duration="998000" />
+      <workItem from="1552914406352" duration="5516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17101000" />
+    <option name="totallyTimeSpent" value="21619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,21 +257,43 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding>
+            <marker date="1552918960661" expanded="true" signature="6:49" ph="..." />
+            <marker date="1552918960661" expanded="true" signature="72:836" ph="{...}" />
+            <marker date="1552918960661" expanded="true" signature="111:834" ph="{...}" />
+            <marker date="1552918960661" expanded="true" signature="219:378" ph="{...}" />
+            <marker date="1552918960661" expanded="true" signature="576:828" ph="{...}" />
+            <marker date="1552918960661" expanded="true" signature="681:782" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
+        <state relative-caret-position="401">
+          <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
           <folding>
-            <marker date="1552915406185" expanded="false" signature="6:122" ph="..." />
-            <marker date="1552915406185" expanded="true" signature="145:5836" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="172:292" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="205:286" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="341:5834" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="769:908" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="973:5681" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="1121:1275" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="1333:1488" ph="{...}" />
-            <marker date="1552915406185" expanded="true" signature="5748:5828" ph="{...}" />
+            <marker date="1552920203248" expanded="false" signature="6:139" ph="..." />
+            <marker date="1552920203248" expanded="true" signature="162:3959" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="189:309" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="222:303" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="358:3957" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="786:925" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="978:998" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="1063:3804" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="1211:1331" ph="{...}" />
+            <marker date="1552920203248" expanded="true" signature="3871:3951" ph="{...}" />
           </folding>
         </state>
       </provider>

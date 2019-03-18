@@ -1,0 +1,9 @@
+#version 330 core
+out vec4 color;
+
+uniform vec4 ourColor; // Мы устанавливаем значение этой переменной в коде OpenGL.
+
+void main()
+{
+    color = ourColor;
+}  

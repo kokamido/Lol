@@ -9,4 +9,10 @@
       <PackageReference Include="OpenTK.NetStandard" Version="1.0.7-prerelease" />
     </ItemGroup>
 
+    <ItemGroup>
+        <Content Include="Shaders\*">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
 </Project>
