@@ -29,23 +29,32 @@ namespace ConsoleApp1
                 0, // OpenGL minor version
                 GraphicsContextFlags.ForwardCompatible)
         {
-            Title += ": OpenGL Version: " + GL.GetString(StringName.Version);
+            Title += ": OpenGL Version: " + GL.GetString(StringName.Version) + "GLORY FOR UKRAINE! GLORY FOR HEROES!";
         }
 
         protected override void OnRenderFrame(FrameEventArgs e)
         {
-            GL.ClearColor(Color.Gold);
+            GL.ClearColor(Color.Tan);
             GL.Clear(ClearBufferMask.ColorBufferBit);
-            float[] verticies =
+            float[] vertYellow =
             {
-                -0.5f, -0.5f, 0.0f,
-                0.5f, -0.5f, 0.0f,
-                0.0f, 0.5f, 0.0f
+                0.5f, -0.0f, 0.0f,
+                -0.5f, -0.0f, 0.0f,
+                0.5f, 0.5f, 0.0f,
+               -0.5f, 0.5f, 0.0f,
             };
-            int vbo;
-            GL.GenBuffers(1, out vbo);
-            GL.BindBuffer(BufferTarget.ArrayBuffer, vbo);
-            GL.BufferData(BufferTarget.ArrayBuffer,verticies.Length*sizeof(float),verticies,BufferUsageHint.StaticDraw);
+            
+            float[] vertBlue =
+            {
+                0.5f, -0.5f, 0.0f,
+                -0.5f, -0.5f, 0.0f,
+                0.5f, 0.0f, 0.0f,
+                -0.5f, 0.0f, 0.0f,
+            };
+            int vbo1;
+            GL.GenBuffers(1, out vbo1);
+            GL.BindBuffer(BufferTarget.ArrayBuffer, vbo1);
+            GL.BufferData(BufferTarget.ArrayBuffer,vertYellow.Length*sizeof(float),vertYellow,BufferUsageHint.StaticDraw);
             
             string vertexShaderCode ="#version 330 core\nlayout (location = 0) in vec3 position;\nvoid main()\n{\n\tgl_Position = vec4(position.x, position.y, position.z, 1.0);\n}";
             int vertexShader;
@@ -54,33 +63,69 @@ namespace ConsoleApp1
             GL.CompileShader(vertexShader);
             Console.WriteLine(GL.GetShaderInfoLog(vertexShader));
             
-            string fragmentShaderCode ="#version 330 core\nout vec4 color;\nvoid main()\n{\n\tcolor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n}";
+            string fragmentShaderYellowCode ="#version 330 core\nout vec4 color;\nvoid main()\n{\n\tcolor = vec4(0.9f, 0.4f, 0.0f, 1.0f);\n}";
             int fragmentShader;
             fragmentShader = GL.CreateShader(ShaderType.FragmentShader);
-            GL.ShaderSource(fragmentShader,fragmentShaderCode);
+            GL.ShaderSource(fragmentShader,fragmentShaderYellowCode);
             GL.CompileShader(fragmentShader);
             Console.WriteLine(GL.GetShaderInfoLog(fragmentShader));
 
-            int shaderProgram;
-            shaderProgram = GL.CreateProgram();
-            GL.AttachShader(shaderProgram,vertexShader);
-            GL.AttachShader(shaderProgram,fragmentShader);
-            GL.LinkProgram(shaderProgram);
-            Console.WriteLine(GL.GetProgramInfoLog(shaderProgram));
+            int shaderProgramYellow;
+            shaderProgramYellow = GL.CreateProgram();
+            GL.AttachShader(shaderProgramYellow,vertexShader);
+            GL.AttachShader(shaderProgramYellow,fragmentShader);
+            GL.LinkProgram(shaderProgramYellow);
+            Console.WriteLine(GL.GetProgramInfoLog(shaderProgramYellow));
             
-            int vao;
-            GL.GenVertexArrays(1, out vao);
-            GL.BindVertexArray(vao);
-            GL.BindBuffer(BufferTarget.ArrayBuffer,vbo);
-            GL.BufferData(BufferTarget.ArrayBuffer, verticies.Length * sizeof(float), verticies, BufferUsageHint.StaticDraw);
+            int vaoYellow;
+            GL.GenVertexArrays(1, out vaoYellow);
+            GL.BindVertexArray(vaoYellow);
+            GL.BindBuffer(BufferTarget.ArrayBuffer,vbo1);
+            GL.BufferData(BufferTarget.ArrayBuffer, vertYellow.Length * sizeof(float), vertYellow, BufferUsageHint.StaticDraw);
             GL.VertexAttribPointer(0,3,VertexAttribPointerType.Float,false,3*sizeof(float),0);
             GL.EnableVertexAttribArray(0);
             GL.BindVertexArray(0);
-            GL.UseProgram(shaderProgram);
-            GL.DeleteShader(vertexShader);
+            GL.UseProgram(shaderProgramYellow);
+            //GL.DeleteShader(vertexShader);
             GL.DeleteShader(fragmentShader);
-            GL.BindVertexArray(vao);
+            GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
+            GL.DrawArrays(PrimitiveType.Triangles,1,4);
+            GL.BindVertexArray(0);
+            
+            int vbo2;
+            GL.GenBuffers(1, out vbo2);
+            GL.BindBuffer(BufferTarget.ArrayBuffer, vbo2);
+            GL.BufferData(BufferTarget.ArrayBuffer,vertBlue.Length*sizeof(float),vertBlue,BufferUsageHint.StaticDraw);
+             
+            string fragmentShaderBlueCode ="#version 330 core\nout vec4 color;\nvoid main()\n{\n\tcolor = vec4(0.0f, 0.2f, 0.5f, 1.0f);\n}";
+            int fragmentShader2;
+            fragmentShader2 = GL.CreateShader(ShaderType.FragmentShader);
+            GL.ShaderSource(fragmentShader2,fragmentShaderBlueCode);
+            GL.CompileShader(fragmentShader2);
+            Console.WriteLine(GL.GetShaderInfoLog(fragmentShader2));
+
+            int shaderProgramBlue;
+            shaderProgramBlue = GL.CreateProgram();
+            GL.AttachShader(shaderProgramBlue,vertexShader);
+            GL.AttachShader(shaderProgramBlue,fragmentShader2);
+            GL.LinkProgram(shaderProgramBlue);
+            Console.WriteLine(GL.GetProgramInfoLog(shaderProgramBlue));
+            
+            int vaoBlue;
+            GL.GenVertexArrays(1, out vaoBlue);
+            GL.BindVertexArray(vaoBlue);
+            GL.BindBuffer(BufferTarget.ArrayBuffer,vbo2);
+            GL.BufferData(BufferTarget.ArrayBuffer, vertBlue.Length * sizeof(float), vertBlue, BufferUsageHint.StaticDraw);
+            GL.VertexAttribPointer(0,3,VertexAttribPointerType.Float,false,3*sizeof(float),0);
+            GL.EnableVertexAttribArray(0);
+            GL.BindVertexArray(0);
+            GL.UseProgram(shaderProgramBlue);
+            //GL.DeleteShader(vertexShader);
+            GL.DeleteShader(fragmentShader2);
+            GL.BindVertexArray(vaoBlue);
+            GL.DrawArrays(PrimitiveType.Triangles,0,3);
+            GL.DrawArrays(PrimitiveType.Triangles,1,4);
             GL.BindVertexArray(0);
             SwapBuffers();
         }

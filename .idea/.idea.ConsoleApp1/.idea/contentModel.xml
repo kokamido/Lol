@@ -5,7 +5,6 @@
     <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_ConsoleApp1.-289155735.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="ConsoleApp1" t="IncludeRecursive">
-        <e p="Class1.cs" t="Include" />
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
