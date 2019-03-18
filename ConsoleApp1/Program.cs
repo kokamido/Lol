@@ -41,38 +41,30 @@ namespace ConsoleApp1
         {
             GL.ClearColor(Color.Tan);
             GL.Clear(ClearBufferMask.ColorBufferBit);
-            float[] vertices     = {
+            float[] vertices = {
                 // Позиции         // Цвета
                 0.5f, -0.5f, 0.0f,  1.0f, 0.0f, 0.0f,   // Нижний правый угол
                 -0.5f, -0.5f, 0.0f,  0.0f, 1.0f, 0.0f,   // Нижний левый угол
                 0.0f,  0.5f, 0.0f,  0.0f, 0.0f, 1.0f    // Верхний угол
             };   
+
+            int shaderProgramYellow;
+
+            using (var vertexShader = new Shader(ShaderType.VertexShader,Path.Combine("Shaders","VertexShader")))
+            using (var fragmentShader = new Shader(ShaderType.FragmentShader,Path.Combine("Shaders","FragmentShader")))
+            {
+                shaderProgramYellow = GL.CreateProgram();
+                GL.AttachShader(shaderProgramYellow,vertexShader.Id);
+                GL.AttachShader(shaderProgramYellow,fragmentShader.Id);
+                GL.LinkProgram(shaderProgramYellow);
+                Console.WriteLine(GL.GetProgramInfoLog(shaderProgramYellow));
+
+            }
             
             int vbo1;
             GL.GenBuffers(1, out vbo1);
             GL.BindBuffer(BufferTarget.ArrayBuffer, vbo1);
             GL.BufferData(BufferTarget.ArrayBuffer,vertices.Length*sizeof(float),vertices,BufferUsageHint.StaticDraw);
-
-            string vertexShaderCode = ShaderHelper.LoadShader("VertexShader");
-            int vertexShader;
-            vertexShader = GL.CreateShader(ShaderType.VertexShader);
-            GL.ShaderSource(vertexShader,vertexShaderCode);
-            GL.CompileShader(vertexShader);
-            Console.WriteLine(GL.GetShaderInfoLog(vertexShader));
-            
-            string fragmentShaderYellowCode = ShaderHelper.LoadShader("FragmentShader");;
-            int fragmentShader;
-            fragmentShader = GL.CreateShader(ShaderType.FragmentShader);
-            GL.ShaderSource(fragmentShader,fragmentShaderYellowCode);
-            GL.CompileShader(fragmentShader);
-            Console.WriteLine(GL.GetShaderInfoLog(fragmentShader));
-
-            int shaderProgramYellow;
-            shaderProgramYellow = GL.CreateProgram();
-            GL.AttachShader(shaderProgramYellow,vertexShader);
-            GL.AttachShader(shaderProgramYellow,fragmentShader);
-            GL.LinkProgram(shaderProgramYellow);
-            Console.WriteLine(GL.GetProgramInfoLog(shaderProgramYellow));
             
             int vaoYellow;
             GL.GenVertexArrays(1, out vaoYellow);
@@ -84,14 +76,8 @@ namespace ConsoleApp1
             GL.VertexAttribPointer(1,3,VertexAttribPointerType.Float,false,6*sizeof(float),3*sizeof(float));
             GL.EnableVertexAttribArray(1);
             GL.BindVertexArray(0);
-            float timeValue = DateTime.UtcNow.Second+DateTime.UtcNow.Millisecond/1000.0f;
-            var greenValue = (float)((Math.Sin(timeValue) / 2) + 0.5);
-            int vertexColorLocation = GL.GetUniformLocation(shaderProgramYellow, "ourColor");
-
+            
             GL.UseProgram(shaderProgramYellow);
-            GL.Uniform4(vertexColorLocation, 0.0f, greenValue, 0.0f, 1.0f);
-            GL.DeleteShader(vertexShader);
-            GL.DeleteShader(fragmentShader);
             GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.BindVertexArray(0);
