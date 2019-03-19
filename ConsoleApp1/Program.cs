@@ -56,6 +56,8 @@ namespace ConsoleApp1
                 program = new GlProgram(vertexShader,fragmentShader);
             }
             
+            
+            
             int vbo1;
             GL.GenBuffers(1, out vbo1);
             GL.BindBuffer(BufferTarget.ArrayBuffer, vbo1);
@@ -72,7 +74,9 @@ namespace ConsoleApp1
             GL.EnableVertexAttribArray(1);
             GL.BindVertexArray(0);
             
+            int shiftLocation = GL.GetUniformLocation(program.Id, "Shift");
             GL.UseProgram(program.Id);
+            GL.Uniform1(shiftLocation,0.5f);//Uniformf(vertexColorLocation, 0.0f, greenValue, 0.0f, 1.0f);
             GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.BindVertexArray(0);
