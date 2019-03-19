@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using log4net;
@@ -6,14 +7,21 @@ using OpenTK.Graphics.OpenGL;
 
 namespace ConsoleApp1
 {
+    public static class MyLog
+    {
+        public static ILog Log { get; }
+
+        static MyLog()
+        {
+            Log = LogManager.GetLogger(typeof(MyLog));
+        }
+    }
     public class Shader :IDisposable
     {
         public readonly ShaderType Type;
         public readonly int Id;
-        protected ILog log;
         public Shader(ShaderType type, string pathToCode)
         {
-            log = LogManager.GetLogger(typeof(Shader));
             Type = type;
             Id = GL.CreateShader(type);
             var code = LoadShaderCode(pathToCode);
@@ -21,10 +29,9 @@ namespace ConsoleApp1
             GL.CompileShader(Id);
             var compileLog = GL.GetShaderInfoLog(Id);
             if(string.IsNullOrWhiteSpace(compileLog))
-                log.Info($"{type} has been succesfully compiled");
+                MyLog.Log.Info($"{type} with ID {Id} has been succesfully compiled");
             else
-                log.Fatal($"{type} {compileLog}");
-            
+                MyLog.Log.Fatal($"{type} with ID {Id} {compileLog}");          
         }
 
         private static string LoadShaderCode(string path)
@@ -51,4 +58,23 @@ namespace ConsoleApp1
             GL.DeleteShader(Id);
         }
     }
+
+    public class GlProgram
+    {
+        public readonly int Id;
+
+        public GlProgram(params Shader[] shaders)
+        {
+            Id = GL.CreateProgram();
+            foreach (var shader in shaders)
+                GL.AttachShader(Id,shader.Id);
+            GL.LinkProgram(Id);
+            var compileLog = GL.GetShaderInfoLog(Id);
+            if(string.IsNullOrWhiteSpace(compileLog))
+                MyLog.Log.Info($"Program {Id} has been succesfully linked");
+            else
+                MyLog.Log.Fatal($"Program {Id} {compileLog}");
+        }
+    }
+    
 }

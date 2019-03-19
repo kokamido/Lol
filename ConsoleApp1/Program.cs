@@ -34,7 +34,7 @@ namespace ConsoleApp1
         }
 
         protected override void OnLoad(EventArgs e)
-        {
+        {    
         }
 
         protected override void OnRenderFrame(FrameEventArgs e)
@@ -46,19 +46,14 @@ namespace ConsoleApp1
                 0.5f, -0.5f, 0.0f,  1.0f, 0.0f, 0.0f,   // Нижний правый угол
                 -0.5f, -0.5f, 0.0f,  0.0f, 1.0f, 0.0f,   // Нижний левый угол
                 0.0f,  0.5f, 0.0f,  0.0f, 0.0f, 1.0f    // Верхний угол
-            };   
+            };
 
-            int shaderProgramYellow;
+            GlProgram program = null;
 
             using (var vertexShader = new Shader(ShaderType.VertexShader,Path.Combine("Shaders","VertexShader")))
             using (var fragmentShader = new Shader(ShaderType.FragmentShader,Path.Combine("Shaders","FragmentShader")))
             {
-                shaderProgramYellow = GL.CreateProgram();
-                GL.AttachShader(shaderProgramYellow,vertexShader.Id);
-                GL.AttachShader(shaderProgramYellow,fragmentShader.Id);
-                GL.LinkProgram(shaderProgramYellow);
-                Console.WriteLine(GL.GetProgramInfoLog(shaderProgramYellow));
-
+                program = new GlProgram(vertexShader,fragmentShader);
             }
             
             int vbo1;
@@ -77,7 +72,7 @@ namespace ConsoleApp1
             GL.EnableVertexAttribArray(1);
             GL.BindVertexArray(0);
             
-            GL.UseProgram(shaderProgramYellow);
+            GL.UseProgram(program.Id);
             GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.BindVertexArray(0);
