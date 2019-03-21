@@ -1,0 +1,1352 @@
+[Start of logging]
+21.03.2019 13:18:04.766 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:18:04.779 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:18:04.781 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 13:19:26.000 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:19:26.011 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:19:26.013 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:19:26.179 INFO     1 Texture from Data/Images/container.jpg has been succesfully loaded as Format24bppRgb 
+21.03.2019 13:19:26.191 INFO     1 Texture from Data/Images/awesomeface.png has been succesfully loaded as Format32bppArgb 
+[Start of logging]
+21.03.2019 13:20:50.495 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:20:50.515 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:20:50.518 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:20:50.673 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:20:50.681 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:21:19.625 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:21:19.643 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:21:19.645 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:21:19.789 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:21:19.800 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:27:49.976 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:27:49.991 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:27:49.993 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:27:50.162 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:27:50.175 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:29:59.198 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:29:59.214 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:29:59.217 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:29:59.344 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:29:59.354 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:30:34.083 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:30:34.098 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:30:34.101 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 13:30:44.922 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:30:44.937 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:30:44.939 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:30:45.108 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:31:09.799 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:31:09.812 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:31:09.814 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:31:09.987 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:31:36.150 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:31:36.162 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:31:36.163 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:31:36.309 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:32:04.622 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:32:04.637 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:32:04.639 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:32:04.802 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:32:20.828 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:32:20.844 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:32:20.845 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:32:21.000 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:32:34.320 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:32:34.335 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:32:34.336 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:32:34.535 INFO     1 Texture from 'Data/Images/plastic.jpg' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:32:57.237 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:32:57.251 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:32:57.253 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:32:57.456 INFO     1 Texture from 'Data/Images/specular.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:33:08.392 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:33:08.405 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:33:08.406 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:33:08.533 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:33:37.198 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:33:37.213 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:33:37.215 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:33:37.436 INFO     1 Texture from 'Data/Images/specular.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:35:11.838 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:35:11.851 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:35:11.853 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:35:12.076 INFO     1 Texture from 'Data/Images/specular.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:35:25.823 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:35:25.838 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:35:25.839 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:35:25.978 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:35:38.299 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:35:38.314 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:35:38.316 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:35:38.448 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:35:48.718 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:35:48.733 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:35:48.735 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:35:48.886 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:36:25.956 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:36:25.976 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:36:25.995 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:36:26.152 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:36:26.171 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:40:51.115 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:40:51.130 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:40:51.132 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:40:51.275 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:40:51.283 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:41:27.690 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:41:27.703 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:41:27.705 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:41:27.850 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:41:27.866 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:42:19.282 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:42:19.296 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:42:19.298 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:42:19.473 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:42:19.488 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:50:48.193 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:50:48.208 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:50:48.210 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:50:48.360 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 13:50:48.372 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 13:51:06.988 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:51:07.000 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:51:07.002 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:51:07.174 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:51:07.191 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:52:30.432 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:52:30.448 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:52:30.451 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:52:30.603 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:52:30.619 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:53:01.785 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:53:01.800 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:53:01.802 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:53:01.942 INFO     1 1 
+21.03.2019 13:53:01.946 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:53:01.964 INFO     1 2 
+21.03.2019 13:53:01.965 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:54:01.976 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:54:01.988 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:54:01.990 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:54:02.141 INFO     1 1 
+21.03.2019 13:54:02.146 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:54:02.162 INFO     1 2 
+21.03.2019 13:54:02.162 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:55:42.985 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:55:42.996 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 13:55:42.997 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:55:43.127 INFO     1 1 
+21.03.2019 13:55:43.131 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 13:55:43.143 INFO     1 2 
+21.03.2019 13:55:43.143 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:56:55.266 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:56:55.290 FATAL    1 FragmentShaderArb with ID 2 0:12(11): warning: left-hand operand of comma expression has no effect
+0:12(2): error: value of type vec2 cannot be assigned to variable of type vec4
+ 
+21.03.2019 13:56:55.293 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:56:55.458 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:57:11.335 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:57:11.350 FATAL    1 FragmentShaderArb with ID 2 0:12(11): warning: left-hand operand of comma expression has no effect
+0:12(2): error: value of type vec2 cannot be assigned to variable of type vec4
+ 
+21.03.2019 13:57:11.352 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:57:11.501 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:57:35.584 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:57:35.596 FATAL    1 FragmentShaderArb with ID 2 0:12(11): warning: left-hand operand of comma expression has no effect
+0:12(2): error: value of type vec2 cannot be assigned to variable of type vec4
+ 
+21.03.2019 13:57:35.598 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:57:35.745 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:59:13.772 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:59:13.787 FATAL    1 FragmentShaderArb with ID 2 0:12(11): warning: left-hand operand of comma expression has no effect
+0:12(2): error: value of type vec2 cannot be assigned to variable of type vec4
+ 
+21.03.2019 13:59:13.789 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 13:59:13.928 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 13:59:35.076 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 13:59:35.090 FATAL    1 FragmentShaderArb with ID 2 0:12(11): warning: left-hand operand of comma expression has no effect
+0:12(2): error: value of type vec2 cannot be assigned to variable of type vec4
+ 
+21.03.2019 13:59:35.092 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 14:00:26.302 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:00:26.320 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:00:26.324 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:00:26.461 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:00:36.555 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:00:36.569 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:00:36.572 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:00:36.737 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:02:56.033 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:02:56.053 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:02:56.074 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:02:56.222 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:03:50.923 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:03:50.944 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:03:50.984 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:03:51.125 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:04:06.131 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:04:06.145 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:04:06.147 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:04:06.282 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:15:03.242 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:15:03.262 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:15:03.264 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:15:03.388 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:18:01.834 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:18:01.854 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:18:01.912 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:18:02.018 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:18:30.321 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:18:30.334 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:18:30.336 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:18:30.467 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:18:41.704 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:18:41.718 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:18:41.720 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:18:41.853 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:18:54.844 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:18:54.859 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:18:54.861 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:18:54.987 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 14:18:55.015 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:19:21.191 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:19:21.204 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:19:21.222 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:19:21.351 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 14:19:21.377 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 14:19:38.702 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:19:38.714 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:19:38.715 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:19:38.847 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:19:38.871 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:20:02.166 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:20:02.181 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:20:02.183 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:20:02.305 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:20:02.331 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:20:26.268 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:20:26.283 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:20:26.285 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:20:26.417 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:20:26.440 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:20:42.086 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:20:42.098 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:20:42.100 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:20:42.225 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:20:42.256 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:22:16.095 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:22:16.107 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:22:16.108 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:22:16.227 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:22:16.250 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:22:27.274 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:22:27.291 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:22:27.293 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 14:22:33.439 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:22:33.450 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:22:33.452 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 14:22:40.208 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:22:40.219 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:22:40.220 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+21.03.2019 14:23:02.706 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:23:02.721 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:23:02.722 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:23:02.848 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:23:02.874 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:23:13.402 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:23:13.417 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:23:13.419 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:23:13.544 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:23:13.571 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:23:28.288 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:23:28.299 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:23:28.301 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:23:28.421 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:23:28.445 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:23:39.427 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:23:39.440 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:23:39.442 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:23:39.556 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:23:39.579 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:23:47.939 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:23:47.954 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:23:47.956 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:23:48.083 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:23:48.112 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:24:55.504 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:24:55.515 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:24:55.517 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:24:55.639 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:24:55.660 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:25:07.294 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:25:07.308 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:25:07.310 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:25:07.438 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:25:07.457 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:25:15.272 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:25:15.286 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:25:15.288 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:25:15.448 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:25:15.482 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:25:30.767 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:25:30.782 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:25:30.784 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:25:30.903 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:25:30.930 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:25:50.231 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:25:50.246 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:25:50.248 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:25:50.394 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:25:50.426 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:26:12.892 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:26:12.903 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:26:12.905 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:26:13.032 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:26:13.056 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:26:20.990 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:26:21.005 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:26:21.007 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:26:21.141 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:26:21.169 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:26:52.532 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:26:52.542 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:26:52.544 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:26:52.662 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:26:52.688 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:28:16.713 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:28:16.728 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:28:16.730 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:28:16.852 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:28:16.883 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 14:28:54.030 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 14:28:54.044 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 14:28:54.046 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 14:28:54.164 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 14:28:54.193 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:53:55.384 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:53:55.406 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:53:55.435 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:53:55.828 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:53:55.852 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:54:49.748 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:54:49.771 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:54:49.827 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:54:49.970 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:54:50.011 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:54:58.643 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:54:58.685 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:54:58.688 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:54:58.826 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:54:58.877 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:55:13.622 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:55:13.637 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:55:13.641 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:55:13.746 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:55:13.774 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:55:22.867 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:55:22.883 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:55:22.886 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:55:23.007 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:55:23.039 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:55:44.801 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:55:44.816 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:55:44.818 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:55:44.992 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 15:55:45.015 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 15:56:34.674 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:56:34.690 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:56:34.691 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:56:34.819 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:56:34.844 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:56:45.676 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:56:45.689 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:56:45.691 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:56:45.835 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:56:45.869 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:57:29.022 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:57:29.037 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:57:29.039 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:57:29.214 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:57:29.251 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:57:50.299 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:57:50.313 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:57:50.315 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:57:50.479 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:57:50.511 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:57:58.988 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:57:59.004 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:57:59.006 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:57:59.147 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:57:59.171 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:58:09.097 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:58:09.111 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:58:09.113 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:58:09.227 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:58:09.255 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:58:26.387 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:58:26.402 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:58:26.404 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:58:26.576 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 15:58:26.611 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 15:58:38.713 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:58:38.727 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:58:38.729 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:58:38.890 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 15:58:38.949 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 15:59:08.401 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:59:08.422 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:59:08.425 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:59:08.604 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 15:59:08.633 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 15:59:13.933 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:59:13.949 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:59:13.952 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:59:14.100 INFO     1 Texture from 'Data/Images/awesomeface.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 15:59:14.133 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 15:59:29.097 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 15:59:29.110 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 15:59:29.112 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 15:59:29.235 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 15:59:29.256 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:01:44.056 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:01:44.072 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:01:44.074 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:01:44.220 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:01:44.243 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:02:17.656 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:02:17.671 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:02:17.673 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:02:17.801 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:02:17.823 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:02:36.033 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:02:36.052 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:02:36.056 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:02:36.196 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:02:36.218 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:03:28.976 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:03:28.989 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:03:28.991 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:03:29.133 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:03:29.166 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:03:40.156 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:03:40.170 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:03:40.173 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:03:40.310 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:03:40.335 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:03:59.981 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:03:59.994 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:03:59.996 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:04:00.129 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:04:00.159 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:04:08.370 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:04:08.383 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:04:08.385 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:04:08.516 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:04:08.545 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:04:45.595 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:04:45.611 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:04:45.613 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:04:45.732 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:04:45.765 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:06:02.020 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:06:02.032 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:06:02.034 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:06:02.175 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:06:02.215 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:06:13.999 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:06:14.013 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:06:14.015 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:06:14.156 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:06:14.190 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:12:51.903 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:12:51.914 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:12:51.916 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:12:52.059 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:12:52.092 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:13:03.485 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:13:03.498 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:13:03.500 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:13:03.626 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:13:03.662 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:13:20.858 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:13:20.871 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:13:20.873 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:13:20.996 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:13:21.023 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:13:31.030 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:13:31.044 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:13:31.046 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:13:31.197 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:13:38.496 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:13:38.511 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:13:38.513 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:13:38.641 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:13:38.671 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:16:48.773 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:16:48.785 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:16:48.787 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:16:48.914 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:16:48.936 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:17:14.474 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:17:14.489 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:17:14.491 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:17:14.635 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:17:14.663 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:19:04.684 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:19:04.700 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:19:04.702 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:19:04.833 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:19:04.856 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:19:13.427 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:19:13.441 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:19:13.443 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:19:13.562 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+21.03.2019 16:19:13.585 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+[Start of logging]
+21.03.2019 16:19:24.460 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:19:24.475 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:19:24.477 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:19:24.608 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:19:24.636 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:20:31.519 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:20:31.558 FATAL    1 FragmentShaderArb with ID 2 0:14(2): error: syntax error, unexpected IDENTIFIER, expecting ',' or ';'
+ 
+21.03.2019 16:20:31.560 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:20:31.684 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:20:31.710 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:20:48.603 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:20:48.623 FATAL    1 FragmentShaderArb with ID 2 0:13(2): error: `anotehr' undeclared
+0:13(43): error: invalid swizzle / mask `z'
+0:13(43): error: type mismatch
+0:13(12): error: no function with name 'Vec4'
+0:14(66): error: `anotehr' undeclared
+0:14(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:14(45): error:    vec4 texture(sampler1D, float)
+0:14(45): error:    ivec4 texture(isampler1D, float)
+0:14(45): error:    uvec4 texture(usampler1D, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2)
+0:14(45): error:    ivec4 texture(isampler2D, vec2)
+0:14(45): error:    uvec4 texture(usampler2D, vec2)
+0:14(45): error:    vec4 texture(sampler3D, vec3)
+0:14(45): error:    ivec4 texture(isampler3D, vec3)
+0:14(45): error:    uvec4 texture(usampler3D, vec3)
+0:14(45): error:    vec4 texture(samplerCube, vec3)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3)
+0:14(45): error:    float texture(sampler1DShadow, vec3)
+0:14(45): error:    float texture(sampler2DShadow, vec3)
+0:14(45): error:    float texture(samplerCubeShadow, vec4)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:14(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:14(45): error:    vec4 texture(sampler2DRect, vec2)
+0:14(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:14(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:14(45): error:    float texture(sampler2DRectShadow, vec3)
+0:14(45): error:    vec4 texture(sampler1D, float, float)
+0:14(45): error:    ivec4 texture(isampler1D, float, float)
+0:14(45): error:    uvec4 texture(usampler1D, float, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2, float)
+0:14(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:14(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:14(45): error:    vec4 texture(sampler3D, vec3, float)
+0:14(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:14(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:14(45): error:    vec4 texture(samplerCube, vec3, float)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:14(45): error:    float texture(sampler1DShadow, vec3, float)
+0:14(45): error:    float texture(sampler2DShadow, vec3, float)
+0:14(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:14(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:14(10): error:    float mix(float, float, float)
+0:14(10): error:    vec2 mix(vec2, vec2, float)
+0:14(10): error:    vec3 mix(vec3, vec3, float)
+0:14(10): error:    vec4 mix(vec4, vec4, float)
+0:14(10): error:    vec2 mix(vec2, vec2, vec2)
+0:14(10): error:    vec3 mix(vec3, vec3, vec3)
+0:14(10): error:    vec4 mix(vec4, vec4, vec4)
+0:14(10): error:    float mix(float, float, bool)
+0:14(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:14(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:14(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:20:48.625 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:20:48.763 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:20:48.794 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:21:06.684 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:21:06.701 FATAL    1 FragmentShaderArb with ID 2 0:13(2): error: `anotehr' undeclared
+0:13(43): error: invalid swizzle / mask `z'
+0:13(43): error: type mismatch
+0:13(12): error: no function with name 'Vec4'
+0:14(66): error: `anotehr' undeclared
+0:14(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:14(45): error:    vec4 texture(sampler1D, float)
+0:14(45): error:    ivec4 texture(isampler1D, float)
+0:14(45): error:    uvec4 texture(usampler1D, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2)
+0:14(45): error:    ivec4 texture(isampler2D, vec2)
+0:14(45): error:    uvec4 texture(usampler2D, vec2)
+0:14(45): error:    vec4 texture(sampler3D, vec3)
+0:14(45): error:    ivec4 texture(isampler3D, vec3)
+0:14(45): error:    uvec4 texture(usampler3D, vec3)
+0:14(45): error:    vec4 texture(samplerCube, vec3)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3)
+0:14(45): error:    float texture(sampler1DShadow, vec3)
+0:14(45): error:    float texture(sampler2DShadow, vec3)
+0:14(45): error:    float texture(samplerCubeShadow, vec4)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:14(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:14(45): error:    vec4 texture(sampler2DRect, vec2)
+0:14(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:14(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:14(45): error:    float texture(sampler2DRectShadow, vec3)
+0:14(45): error:    vec4 texture(sampler1D, float, float)
+0:14(45): error:    ivec4 texture(isampler1D, float, float)
+0:14(45): error:    uvec4 texture(usampler1D, float, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2, float)
+0:14(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:14(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:14(45): error:    vec4 texture(sampler3D, vec3, float)
+0:14(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:14(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:14(45): error:    vec4 texture(samplerCube, vec3, float)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:14(45): error:    float texture(sampler1DShadow, vec3, float)
+0:14(45): error:    float texture(sampler2DShadow, vec3, float)
+0:14(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:14(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:14(10): error:    float mix(float, float, float)
+0:14(10): error:    vec2 mix(vec2, vec2, float)
+0:14(10): error:    vec3 mix(vec3, vec3, float)
+0:14(10): error:    vec4 mix(vec4, vec4, float)
+0:14(10): error:    vec2 mix(vec2, vec2, vec2)
+0:14(10): error:    vec3 mix(vec3, vec3, vec3)
+0:14(10): error:    vec4 mix(vec4, vec4, vec4)
+0:14(10): error:    float mix(float, float, bool)
+0:14(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:14(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:14(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:21:06.702 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:21:06.828 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:21:06.857 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:21:19.421 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:21:19.437 FATAL    1 FragmentShaderArb with ID 2 0:13(2): error: `anotehr' undeclared
+0:13(43): error: invalid swizzle / mask `z'
+0:13(43): error: type mismatch
+0:13(12): error: cannot construct `vec4' from a non-numeric data type
+0:14(66): error: `anotehr' undeclared
+0:14(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:14(45): error:    vec4 texture(sampler1D, float)
+0:14(45): error:    ivec4 texture(isampler1D, float)
+0:14(45): error:    uvec4 texture(usampler1D, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2)
+0:14(45): error:    ivec4 texture(isampler2D, vec2)
+0:14(45): error:    uvec4 texture(usampler2D, vec2)
+0:14(45): error:    vec4 texture(sampler3D, vec3)
+0:14(45): error:    ivec4 texture(isampler3D, vec3)
+0:14(45): error:    uvec4 texture(usampler3D, vec3)
+0:14(45): error:    vec4 texture(samplerCube, vec3)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3)
+0:14(45): error:    float texture(sampler1DShadow, vec3)
+0:14(45): error:    float texture(sampler2DShadow, vec3)
+0:14(45): error:    float texture(samplerCubeShadow, vec4)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:14(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:14(45): error:    vec4 texture(sampler2DRect, vec2)
+0:14(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:14(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:14(45): error:    float texture(sampler2DRectShadow, vec3)
+0:14(45): error:    vec4 texture(sampler1D, float, float)
+0:14(45): error:    ivec4 texture(isampler1D, float, float)
+0:14(45): error:    uvec4 texture(usampler1D, float, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2, float)
+0:14(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:14(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:14(45): error:    vec4 texture(sampler3D, vec3, float)
+0:14(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:14(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:14(45): error:    vec4 texture(samplerCube, vec3, float)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:14(45): error:    float texture(sampler1DShadow, vec3, float)
+0:14(45): error:    float texture(sampler2DShadow, vec3, float)
+0:14(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:14(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:14(10): error:    float mix(float, float, float)
+0:14(10): error:    vec2 mix(vec2, vec2, float)
+0:14(10): error:    vec3 mix(vec3, vec3, float)
+0:14(10): error:    vec4 mix(vec4, vec4, float)
+0:14(10): error:    vec2 mix(vec2, vec2, vec2)
+0:14(10): error:    vec3 mix(vec3, vec3, vec3)
+0:14(10): error:    vec4 mix(vec4, vec4, vec4)
+0:14(10): error:    float mix(float, float, bool)
+0:14(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:14(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:14(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:21:19.438 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:21:19.563 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:21:19.590 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:21:43.691 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:21:43.713 FATAL    1 FragmentShaderArb with ID 2 0:13(48): error: invalid swizzle / mask `z'
+0:13(48): error: type mismatch
+0:13(17): error: cannot construct `vec4' from a non-numeric data type
+0:14(45): error: no matching function for call to `texture(sampler2D, vec4)'; candidates are:
+0:14(45): error:    vec4 texture(sampler1D, float)
+0:14(45): error:    ivec4 texture(isampler1D, float)
+0:14(45): error:    uvec4 texture(usampler1D, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2)
+0:14(45): error:    ivec4 texture(isampler2D, vec2)
+0:14(45): error:    uvec4 texture(usampler2D, vec2)
+0:14(45): error:    vec4 texture(sampler3D, vec3)
+0:14(45): error:    ivec4 texture(isampler3D, vec3)
+0:14(45): error:    uvec4 texture(usampler3D, vec3)
+0:14(45): error:    vec4 texture(samplerCube, vec3)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3)
+0:14(45): error:    float texture(sampler1DShadow, vec3)
+0:14(45): error:    float texture(sampler2DShadow, vec3)
+0:14(45): error:    float texture(samplerCubeShadow, vec4)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:14(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:14(45): error:    vec4 texture(sampler2DRect, vec2)
+0:14(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:14(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:14(45): error:    float texture(sampler2DRectShadow, vec3)
+0:14(45): error:    vec4 texture(sampler1D, float, float)
+0:14(45): error:    ivec4 texture(isampler1D, float, float)
+0:14(45): error:    uvec4 texture(usampler1D, float, float)
+0:14(45): error:    vec4 texture(sampler2D, vec2, float)
+0:14(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:14(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:14(45): error:    vec4 texture(sampler3D, vec3, float)
+0:14(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:14(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:14(45): error:    vec4 texture(samplerCube, vec3, float)
+0:14(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:14(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:14(45): error:    float texture(sampler1DShadow, vec3, float)
+0:14(45): error:    float texture(sampler2DShadow, vec3, float)
+0:14(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:14(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:14(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:14(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:14(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:14(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:14(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:14(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:14(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:14(10): error:    float mix(float, float, float)
+0:14(10): error:    vec2 mix(vec2, vec2, float)
+0:14(10): error:    vec3 mix(vec3, vec3, float)
+0:14(10): error:    vec4 mix(vec4, vec4, float)
+0:14(10): error:    vec2 mix(vec2, vec2, vec2)
+0:14(10): error:    vec3 mix(vec3, vec3, vec3)
+0:14(10): error:    vec4 mix(vec4, vec4, vec4)
+0:14(10): error:    float mix(float, float, bool)
+0:14(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:14(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:14(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:21:43.715 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:21:43.839 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:21:43.873 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:22:14.207 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:22:14.230 FATAL    1 FragmentShaderArb with ID 2 0:13(17): error: too few components to construct `vec4'
+0:14(66): warning: `anotehr' used uninitialized
+ 
+21.03.2019 16:22:14.232 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:22:14.366 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:22:14.391 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:22:46.143 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:22:46.158 FATAL    1 FragmentShaderArb with ID 2 0:13(66): error: too few components to construct `vec4'
+0:13(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:13(45): error:    vec4 texture(sampler1D, float)
+0:13(45): error:    ivec4 texture(isampler1D, float)
+0:13(45): error:    uvec4 texture(usampler1D, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2)
+0:13(45): error:    ivec4 texture(isampler2D, vec2)
+0:13(45): error:    uvec4 texture(usampler2D, vec2)
+0:13(45): error:    vec4 texture(sampler3D, vec3)
+0:13(45): error:    ivec4 texture(isampler3D, vec3)
+0:13(45): error:    uvec4 texture(usampler3D, vec3)
+0:13(45): error:    vec4 texture(samplerCube, vec3)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3)
+0:13(45): error:    float texture(sampler1DShadow, vec3)
+0:13(45): error:    float texture(sampler2DShadow, vec3)
+0:13(45): error:    float texture(samplerCubeShadow, vec4)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:13(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:13(45): error:    vec4 texture(sampler2DRect, vec2)
+0:13(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:13(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:13(45): error:    float texture(sampler2DRectShadow, vec3)
+0:13(45): error:    vec4 texture(sampler1D, float, float)
+0:13(45): error:    ivec4 texture(isampler1D, float, float)
+0:13(45): error:    uvec4 texture(usampler1D, float, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2, float)
+0:13(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:13(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:13(45): error:    vec4 texture(sampler3D, vec3, float)
+0:13(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:13(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:13(45): error:    vec4 texture(samplerCube, vec3, float)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:13(45): error:    float texture(sampler1DShadow, vec3, float)
+0:13(45): error:    float texture(sampler2DShadow, vec3, float)
+0:13(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:13(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:13(10): error:    float mix(float, float, float)
+0:13(10): error:    vec2 mix(vec2, vec2, float)
+0:13(10): error:    vec3 mix(vec3, vec3, float)
+0:13(10): error:    vec4 mix(vec4, vec4, float)
+0:13(10): error:    vec2 mix(vec2, vec2, vec2)
+0:13(10): error:    vec3 mix(vec3, vec3, vec3)
+0:13(10): error:    vec4 mix(vec4, vec4, vec4)
+0:13(10): error:    float mix(float, float, bool)
+0:13(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:13(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:13(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:22:46.160 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:22:46.269 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:22:46.299 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:23:05.364 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:23:05.382 FATAL    1 FragmentShaderArb with ID 2 0:13(71): error: invalid swizzle / mask `X'
+0:13(71): error: type mismatch
+0:13(66): error: cannot construct `vec4' from a non-numeric data type
+0:13(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:13(45): error:    vec4 texture(sampler1D, float)
+0:13(45): error:    ivec4 texture(isampler1D, float)
+0:13(45): error:    uvec4 texture(usampler1D, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2)
+0:13(45): error:    ivec4 texture(isampler2D, vec2)
+0:13(45): error:    uvec4 texture(usampler2D, vec2)
+0:13(45): error:    vec4 texture(sampler3D, vec3)
+0:13(45): error:    ivec4 texture(isampler3D, vec3)
+0:13(45): error:    uvec4 texture(usampler3D, vec3)
+0:13(45): error:    vec4 texture(samplerCube, vec3)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3)
+0:13(45): error:    float texture(sampler1DShadow, vec3)
+0:13(45): error:    float texture(sampler2DShadow, vec3)
+0:13(45): error:    float texture(samplerCubeShadow, vec4)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:13(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:13(45): error:    vec4 texture(sampler2DRect, vec2)
+0:13(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:13(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:13(45): error:    float texture(sampler2DRectShadow, vec3)
+0:13(45): error:    vec4 texture(sampler1D, float, float)
+0:13(45): error:    ivec4 texture(isampler1D, float, float)
+0:13(45): error:    uvec4 texture(usampler1D, float, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2, float)
+0:13(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:13(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:13(45): error:    vec4 texture(sampler3D, vec3, float)
+0:13(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:13(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:13(45): error:    vec4 texture(samplerCube, vec3, float)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:13(45): error:    float texture(sampler1DShadow, vec3, float)
+0:13(45): error:    float texture(sampler2DShadow, vec3, float)
+0:13(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:13(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:13(10): error:    float mix(float, float, float)
+0:13(10): error:    vec2 mix(vec2, vec2, float)
+0:13(10): error:    vec3 mix(vec3, vec3, float)
+0:13(10): error:    vec4 mix(vec4, vec4, float)
+0:13(10): error:    vec2 mix(vec2, vec2, vec2)
+0:13(10): error:    vec3 mix(vec3, vec3, vec3)
+0:13(10): error:    vec4 mix(vec4, vec4, vec4)
+0:13(10): error:    float mix(float, float, bool)
+0:13(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:13(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:13(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:23:05.383 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:23:05.494 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:23:05.527 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:23:38.803 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:23:38.825 FATAL    1 FragmentShaderArb with ID 2 0:13(66): error: too few components to construct `vec4'
+0:13(45): error: no matching function for call to `texture(sampler2D, error)'; candidates are:
+0:13(45): error:    vec4 texture(sampler1D, float)
+0:13(45): error:    ivec4 texture(isampler1D, float)
+0:13(45): error:    uvec4 texture(usampler1D, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2)
+0:13(45): error:    ivec4 texture(isampler2D, vec2)
+0:13(45): error:    uvec4 texture(usampler2D, vec2)
+0:13(45): error:    vec4 texture(sampler3D, vec3)
+0:13(45): error:    ivec4 texture(isampler3D, vec3)
+0:13(45): error:    uvec4 texture(usampler3D, vec3)
+0:13(45): error:    vec4 texture(samplerCube, vec3)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3)
+0:13(45): error:    float texture(sampler1DShadow, vec3)
+0:13(45): error:    float texture(sampler2DShadow, vec3)
+0:13(45): error:    float texture(samplerCubeShadow, vec4)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3)
+0:13(45): error:    float texture(sampler2DArrayShadow, vec4)
+0:13(45): error:    vec4 texture(sampler2DRect, vec2)
+0:13(45): error:    ivec4 texture(isampler2DRect, vec2)
+0:13(45): error:    uvec4 texture(usampler2DRect, vec2)
+0:13(45): error:    float texture(sampler2DRectShadow, vec3)
+0:13(45): error:    vec4 texture(sampler1D, float, float)
+0:13(45): error:    ivec4 texture(isampler1D, float, float)
+0:13(45): error:    uvec4 texture(usampler1D, float, float)
+0:13(45): error:    vec4 texture(sampler2D, vec2, float)
+0:13(45): error:    ivec4 texture(isampler2D, vec2, float)
+0:13(45): error:    uvec4 texture(usampler2D, vec2, float)
+0:13(45): error:    vec4 texture(sampler3D, vec3, float)
+0:13(45): error:    ivec4 texture(isampler3D, vec3, float)
+0:13(45): error:    uvec4 texture(usampler3D, vec3, float)
+0:13(45): error:    vec4 texture(samplerCube, vec3, float)
+0:13(45): error:    ivec4 texture(isamplerCube, vec3, float)
+0:13(45): error:    uvec4 texture(usamplerCube, vec3, float)
+0:13(45): error:    float texture(sampler1DShadow, vec3, float)
+0:13(45): error:    float texture(sampler2DShadow, vec3, float)
+0:13(45): error:    float texture(samplerCubeShadow, vec4, float)
+0:13(45): error:    vec4 texture(sampler1DArray, vec2, float)
+0:13(45): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:13(45): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:13(45): error:    vec4 texture(sampler2DArray, vec3, float)
+0:13(45): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:13(45): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:13(45): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:13(10): error: no matching function for call to `mix(vec4, error, float)'; candidates are:
+0:13(10): error:    float mix(float, float, float)
+0:13(10): error:    vec2 mix(vec2, vec2, float)
+0:13(10): error:    vec3 mix(vec3, vec3, float)
+0:13(10): error:    vec4 mix(vec4, vec4, float)
+0:13(10): error:    vec2 mix(vec2, vec2, vec2)
+0:13(10): error:    vec3 mix(vec3, vec3, vec3)
+0:13(10): error:    vec4 mix(vec4, vec4, vec4)
+0:13(10): error:    float mix(float, float, bool)
+0:13(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:13(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:13(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:23:38.827 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:23:38.959 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:23:38.991 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:23:57.770 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:23:57.787 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:23:57.807 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:23:57.929 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:23:57.962 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:25:04.845 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:25:04.864 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:25:04.869 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:25:05.015 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:25:05.046 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:25:26.078 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:25:26.097 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:25:26.117 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:25:26.249 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:25:26.273 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:25:33.891 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:25:33.911 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:25:33.938 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:25:34.058 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:25:34.084 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:25:48.909 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:25:48.930 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:25:48.934 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:25:49.084 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:25:49.108 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:26:10.202 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:26:10.216 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:26:10.217 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:26:10.340 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:26:10.367 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:26:18.293 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:26:18.308 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:26:18.310 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:26:18.450 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:26:18.477 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:26:29.310 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:26:29.323 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:26:29.325 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:26:29.457 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:26:29.482 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:26:38.158 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:26:38.173 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:26:38.175 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:26:38.299 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:26:38.328 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:27:00.566 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:27:00.581 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:27:00.583 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:27:00.711 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:27:00.741 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:28:24.023 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:28:24.040 FATAL    1 FragmentShaderArb with ID 2 0:13(22): error: `ourTexture0' undeclared
+0:13(14): error: no matching function for call to `texture(error, vec2)'; candidates are:
+0:13(14): error:    vec4 texture(sampler1D, float)
+0:13(14): error:    ivec4 texture(isampler1D, float)
+0:13(14): error:    uvec4 texture(usampler1D, float)
+0:13(14): error:    vec4 texture(sampler2D, vec2)
+0:13(14): error:    ivec4 texture(isampler2D, vec2)
+0:13(14): error:    uvec4 texture(usampler2D, vec2)
+0:13(14): error:    vec4 texture(sampler3D, vec3)
+0:13(14): error:    ivec4 texture(isampler3D, vec3)
+0:13(14): error:    uvec4 texture(usampler3D, vec3)
+0:13(14): error:    vec4 texture(samplerCube, vec3)
+0:13(14): error:    ivec4 texture(isamplerCube, vec3)
+0:13(14): error:    uvec4 texture(usamplerCube, vec3)
+0:13(14): error:    float texture(sampler1DShadow, vec3)
+0:13(14): error:    float texture(sampler2DShadow, vec3)
+0:13(14): error:    float texture(samplerCubeShadow, vec4)
+0:13(14): error:    vec4 texture(sampler1DArray, vec2)
+0:13(14): error:    ivec4 texture(isampler1DArray, vec2)
+0:13(14): error:    uvec4 texture(usampler1DArray, vec2)
+0:13(14): error:    vec4 texture(sampler2DArray, vec3)
+0:13(14): error:    ivec4 texture(isampler2DArray, vec3)
+0:13(14): error:    uvec4 texture(usampler2DArray, vec3)
+0:13(14): error:    float texture(sampler1DArrayShadow, vec3)
+0:13(14): error:    float texture(sampler2DArrayShadow, vec4)
+0:13(14): error:    vec4 texture(sampler2DRect, vec2)
+0:13(14): error:    ivec4 texture(isampler2DRect, vec2)
+0:13(14): error:    uvec4 texture(usampler2DRect, vec2)
+0:13(14): error:    float texture(sampler2DRectShadow, vec3)
+0:13(14): error:    vec4 texture(sampler1D, float, float)
+0:13(14): error:    ivec4 texture(isampler1D, float, float)
+0:13(14): error:    uvec4 texture(usampler1D, float, float)
+0:13(14): error:    vec4 texture(sampler2D, vec2, float)
+0:13(14): error:    ivec4 texture(isampler2D, vec2, float)
+0:13(14): error:    uvec4 texture(usampler2D, vec2, float)
+0:13(14): error:    vec4 texture(sampler3D, vec3, float)
+0:13(14): error:    ivec4 texture(isampler3D, vec3, float)
+0:13(14): error:    uvec4 texture(usampler3D, vec3, float)
+0:13(14): error:    vec4 texture(samplerCube, vec3, float)
+0:13(14): error:    ivec4 texture(isamplerCube, vec3, float)
+0:13(14): error:    uvec4 texture(usamplerCube, vec3, float)
+0:13(14): error:    float texture(sampler1DShadow, vec3, float)
+0:13(14): error:    float texture(sampler2DShadow, vec3, float)
+0:13(14): error:    float texture(samplerCubeShadow, vec4, float)
+0:13(14): error:    vec4 texture(sampler1DArray, vec2, float)
+0:13(14): error:    ivec4 texture(isampler1DArray, vec2, float)
+0:13(14): error:    uvec4 texture(usampler1DArray, vec2, float)
+0:13(14): error:    vec4 texture(sampler2DArray, vec3, float)
+0:13(14): error:    ivec4 texture(isampler2DArray, vec3, float)
+0:13(14): error:    uvec4 texture(usampler2DArray, vec3, float)
+0:13(14): error:    float texture(sampler1DArrayShadow, vec3, float)
+0:13(10): error: no matching function for call to `mix(error, vec4, float)'; candidates are:
+0:13(10): error:    float mix(float, float, float)
+0:13(10): error:    vec2 mix(vec2, vec2, float)
+0:13(10): error:    vec3 mix(vec3, vec3, float)
+0:13(10): error:    vec4 mix(vec4, vec4, float)
+0:13(10): error:    vec2 mix(vec2, vec2, vec2)
+0:13(10): error:    vec3 mix(vec3, vec3, vec3)
+0:13(10): error:    vec4 mix(vec4, vec4, vec4)
+0:13(10): error:    float mix(float, float, bool)
+0:13(10): error:    vec2 mix(vec2, vec2, bvec2)
+0:13(10): error:    vec3 mix(vec3, vec3, bvec3)
+0:13(10): error:    vec4 mix(vec4, vec4, bvec4)
+ 
+21.03.2019 16:28:24.041 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:28:24.164 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:28:24.191 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:28:40.425 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:28:40.440 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:28:40.492 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:28:40.611 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:28:40.640 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:28:52.433 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:28:52.447 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:28:52.449 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:28:52.572 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:28:52.597 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:29:01.446 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:29:01.460 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:29:01.489 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:29:01.607 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:29:01.628 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:29:10.867 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:29:10.884 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:29:10.917 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:29:11.042 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:29:11.067 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:29:47.484 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:29:47.495 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:29:47.496 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:29:47.617 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:29:47.642 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:29:59.293 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:29:59.308 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:29:59.310 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:29:59.437 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:29:59.464 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:30:12.407 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:30:12.420 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:30:12.422 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:30:12.563 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:30:12.591 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:30:21.585 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:30:21.599 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:30:21.602 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:30:21.762 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:30:21.803 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:32:57.816 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:32:57.831 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:32:57.833 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:32:57.983 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:32:58.018 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:33:31.097 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:33:31.111 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:33:31.113 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:33:31.254 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:33:31.294 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:37:56.425 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:37:56.440 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:37:56.442 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:37:56.571 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:37:56.609 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:38:07.368 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:38:07.382 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:38:07.384 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:38:07.496 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:38:07.524 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:38:52.972 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:38:52.984 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:38:52.985 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:38:53.102 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:38:53.128 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:39:08.035 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:39:08.050 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:39:08.053 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:39:08.169 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:39:08.200 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:39:17.790 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:39:17.812 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:39:17.817 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:39:17.959 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:39:18.001 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+21.03.2019 16:40:50.579 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+21.03.2019 16:40:50.595 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+21.03.2019 16:40:50.598 INFO     1 Program 3 has been succesfully linked 
+21.03.2019 16:40:50.750 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+21.03.2019 16:40:50.787 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 

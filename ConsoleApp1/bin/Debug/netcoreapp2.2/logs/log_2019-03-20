@@ -1,0 +1,13 @@
+[Start of logging]
+20.03.2019 13:52:05.654 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+20.03.2019 13:52:05.664 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+20.03.2019 13:52:05.665 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+20.03.2019 14:04:01.211 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+20.03.2019 14:04:01.221 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+20.03.2019 14:04:01.222 INFO     1 Program 3 has been succesfully linked 
+[Start of logging]
+20.03.2019 14:04:43.923 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+20.03.2019 14:04:43.933 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+20.03.2019 14:04:43.935 INFO     1 Program 3 has been succesfully linked 
+20.03.2019 14:04:43.940 DEBUG    1 id 1 

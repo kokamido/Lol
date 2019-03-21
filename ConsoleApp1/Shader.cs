@@ -1,21 +1,10 @@
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using log4net;
 using OpenTK.Graphics.OpenGL;
-
+        
 namespace ConsoleApp1
 {
-    public static class MyLog
-    {
-        public static ILog Log { get; }
-
-        static MyLog()
-        {
-            Log = LogManager.GetLogger(typeof(MyLog));
-        }
-    }
     public class Shader :IDisposable
     {
         public readonly ShaderType Type;
@@ -58,23 +47,4 @@ namespace ConsoleApp1
             GL.DeleteShader(Id);
         }
     }
-
-    public class GlProgram
-    {
-        public readonly int Id;
-
-        public GlProgram(params Shader[] shaders)
-        {
-            Id = GL.CreateProgram();
-            foreach (var shader in shaders)
-                GL.AttachShader(Id,shader.Id);
-            GL.LinkProgram(Id);
-            var compileLog = GL.GetShaderInfoLog(Id);
-            if(string.IsNullOrWhiteSpace(compileLog))
-                MyLog.Log.Info($"Program {Id} has been succesfully linked");
-            else
-                MyLog.Log.Fatal($"Program {Id} {compileLog}");
-        }
-    }
-    
 }
