@@ -1,0 +1,2022 @@
+[Start of logging]
+22.03.2019 01:17:07.070 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:17:07.120 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:17:07.152 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:17:07.716 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:17:07.741 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:17:28.446 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:17:28.459 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:17:28.462 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:17:28.608 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:17:28.647 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:18:31.025 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:18:31.083 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:18:31.090 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:18:31.234 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:18:31.263 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:18:45.817 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:18:45.833 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:18:45.837 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:18:45.971 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:18:45.999 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:20:07.471 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:20:07.531 FATAL    1 FragmentShaderArb with ID 2 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.534 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:20:07.667 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.706 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.719 INFO     1 VertexShader with ID 4 has been succesfully compiled 
+22.03.2019 01:20:07.719 FATAL    1 FragmentShaderArb with ID 5 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.719 INFO     1 Program 6 has been succesfully linked 
+22.03.2019 01:20:07.733 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.765 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.774 INFO     1 VertexShader with ID 7 has been succesfully compiled 
+22.03.2019 01:20:07.775 FATAL    1 FragmentShaderArb with ID 8 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.775 INFO     1 Program 9 has been succesfully linked 
+22.03.2019 01:20:07.781 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.795 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.800 INFO     1 VertexShader with ID 10 has been succesfully compiled 
+22.03.2019 01:20:07.800 FATAL    1 FragmentShaderArb with ID 11 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.800 INFO     1 Program 12 has been succesfully linked 
+22.03.2019 01:20:07.808 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.821 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.827 INFO     1 VertexShader with ID 13 has been succesfully compiled 
+22.03.2019 01:20:07.827 FATAL    1 FragmentShaderArb with ID 14 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.827 INFO     1 Program 15 has been succesfully linked 
+22.03.2019 01:20:07.834 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.847 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.850 INFO     1 VertexShader with ID 16 has been succesfully compiled 
+22.03.2019 01:20:07.851 FATAL    1 FragmentShaderArb with ID 17 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.851 INFO     1 Program 18 has been succesfully linked 
+22.03.2019 01:20:07.856 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.866 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.869 INFO     1 VertexShader with ID 19 has been succesfully compiled 
+22.03.2019 01:20:07.870 FATAL    1 FragmentShaderArb with ID 20 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.870 INFO     1 Program 21 has been succesfully linked 
+22.03.2019 01:20:07.876 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.890 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.893 INFO     1 VertexShader with ID 22 has been succesfully compiled 
+22.03.2019 01:20:07.894 FATAL    1 FragmentShaderArb with ID 23 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.894 INFO     1 Program 24 has been succesfully linked 
+22.03.2019 01:20:07.900 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.913 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.918 INFO     1 VertexShader with ID 25 has been succesfully compiled 
+22.03.2019 01:20:07.919 FATAL    1 FragmentShaderArb with ID 26 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.919 INFO     1 Program 27 has been succesfully linked 
+22.03.2019 01:20:07.925 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.939 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.942 INFO     1 VertexShader with ID 28 has been succesfully compiled 
+22.03.2019 01:20:07.942 FATAL    1 FragmentShaderArb with ID 29 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.942 INFO     1 Program 30 has been succesfully linked 
+22.03.2019 01:20:07.948 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.961 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.964 INFO     1 VertexShader with ID 31 has been succesfully compiled 
+22.03.2019 01:20:07.964 FATAL    1 FragmentShaderArb with ID 32 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.964 INFO     1 Program 33 has been succesfully linked 
+22.03.2019 01:20:07.969 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.979 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:07.982 INFO     1 VertexShader with ID 34 has been succesfully compiled 
+22.03.2019 01:20:07.982 FATAL    1 FragmentShaderArb with ID 35 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:07.982 INFO     1 Program 36 has been succesfully linked 
+22.03.2019 01:20:07.987 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:07.998 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.001 INFO     1 VertexShader with ID 37 has been succesfully compiled 
+22.03.2019 01:20:08.001 FATAL    1 FragmentShaderArb with ID 38 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.001 INFO     1 Program 39 has been succesfully linked 
+22.03.2019 01:20:08.006 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.017 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.020 INFO     1 VertexShader with ID 40 has been succesfully compiled 
+22.03.2019 01:20:08.021 FATAL    1 FragmentShaderArb with ID 41 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.021 INFO     1 Program 42 has been succesfully linked 
+22.03.2019 01:20:08.028 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.041 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.043 INFO     1 VertexShader with ID 43 has been succesfully compiled 
+22.03.2019 01:20:08.044 FATAL    1 FragmentShaderArb with ID 44 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.044 INFO     1 Program 45 has been succesfully linked 
+22.03.2019 01:20:08.049 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.060 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.063 INFO     1 VertexShader with ID 46 has been succesfully compiled 
+22.03.2019 01:20:08.063 FATAL    1 FragmentShaderArb with ID 47 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.063 INFO     1 Program 48 has been succesfully linked 
+22.03.2019 01:20:08.068 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.079 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.082 INFO     1 VertexShader with ID 49 has been succesfully compiled 
+22.03.2019 01:20:08.082 FATAL    1 FragmentShaderArb with ID 50 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.082 INFO     1 Program 51 has been succesfully linked 
+22.03.2019 01:20:08.086 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.098 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.101 INFO     1 VertexShader with ID 52 has been succesfully compiled 
+22.03.2019 01:20:08.102 FATAL    1 FragmentShaderArb with ID 53 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.102 INFO     1 Program 54 has been succesfully linked 
+22.03.2019 01:20:08.106 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.119 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.122 INFO     1 VertexShader with ID 55 has been succesfully compiled 
+22.03.2019 01:20:08.122 FATAL    1 FragmentShaderArb with ID 56 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.122 INFO     1 Program 57 has been succesfully linked 
+22.03.2019 01:20:08.126 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.137 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.142 INFO     1 VertexShader with ID 58 has been succesfully compiled 
+22.03.2019 01:20:08.142 FATAL    1 FragmentShaderArb with ID 59 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.142 INFO     1 Program 60 has been succesfully linked 
+22.03.2019 01:20:08.146 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.157 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.162 INFO     1 VertexShader with ID 61 has been succesfully compiled 
+22.03.2019 01:20:08.162 FATAL    1 FragmentShaderArb with ID 62 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.162 INFO     1 Program 63 has been succesfully linked 
+22.03.2019 01:20:08.166 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.177 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.182 INFO     1 VertexShader with ID 64 has been succesfully compiled 
+22.03.2019 01:20:08.182 FATAL    1 FragmentShaderArb with ID 65 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.182 INFO     1 Program 66 has been succesfully linked 
+22.03.2019 01:20:08.186 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.196 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.203 INFO     1 VertexShader with ID 67 has been succesfully compiled 
+22.03.2019 01:20:08.203 FATAL    1 FragmentShaderArb with ID 68 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.203 INFO     1 Program 69 has been succesfully linked 
+22.03.2019 01:20:08.208 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.220 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.224 INFO     1 VertexShader with ID 70 has been succesfully compiled 
+22.03.2019 01:20:08.224 FATAL    1 FragmentShaderArb with ID 71 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.224 INFO     1 Program 72 has been succesfully linked 
+22.03.2019 01:20:08.229 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.238 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.241 INFO     1 VertexShader with ID 73 has been succesfully compiled 
+22.03.2019 01:20:08.242 FATAL    1 FragmentShaderArb with ID 74 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.242 INFO     1 Program 75 has been succesfully linked 
+22.03.2019 01:20:08.247 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.255 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.259 INFO     1 VertexShader with ID 76 has been succesfully compiled 
+22.03.2019 01:20:08.259 FATAL    1 FragmentShaderArb with ID 77 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.259 INFO     1 Program 78 has been succesfully linked 
+22.03.2019 01:20:08.264 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.273 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.276 INFO     1 VertexShader with ID 79 has been succesfully compiled 
+22.03.2019 01:20:08.276 FATAL    1 FragmentShaderArb with ID 80 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.276 INFO     1 Program 81 has been succesfully linked 
+22.03.2019 01:20:08.282 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.292 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.295 INFO     1 VertexShader with ID 82 has been succesfully compiled 
+22.03.2019 01:20:08.295 FATAL    1 FragmentShaderArb with ID 83 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.295 INFO     1 Program 84 has been succesfully linked 
+22.03.2019 01:20:08.300 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.311 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.315 INFO     1 VertexShader with ID 85 has been succesfully compiled 
+22.03.2019 01:20:08.315 FATAL    1 FragmentShaderArb with ID 86 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.315 INFO     1 Program 87 has been succesfully linked 
+22.03.2019 01:20:08.319 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.330 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.332 INFO     1 VertexShader with ID 88 has been succesfully compiled 
+22.03.2019 01:20:08.332 FATAL    1 FragmentShaderArb with ID 89 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.332 INFO     1 Program 90 has been succesfully linked 
+22.03.2019 01:20:08.338 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.347 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.351 INFO     1 VertexShader with ID 91 has been succesfully compiled 
+22.03.2019 01:20:08.351 FATAL    1 FragmentShaderArb with ID 92 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.351 INFO     1 Program 93 has been succesfully linked 
+22.03.2019 01:20:08.356 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.365 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.367 INFO     1 VertexShader with ID 94 has been succesfully compiled 
+22.03.2019 01:20:08.367 FATAL    1 FragmentShaderArb with ID 95 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.367 INFO     1 Program 96 has been succesfully linked 
+22.03.2019 01:20:08.374 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.384 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.386 INFO     1 VertexShader with ID 97 has been succesfully compiled 
+22.03.2019 01:20:08.386 FATAL    1 FragmentShaderArb with ID 98 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.386 INFO     1 Program 99 has been succesfully linked 
+22.03.2019 01:20:08.392 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.402 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.405 INFO     1 VertexShader with ID 100 has been succesfully compiled 
+22.03.2019 01:20:08.405 FATAL    1 FragmentShaderArb with ID 101 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.405 INFO     1 Program 102 has been succesfully linked 
+22.03.2019 01:20:08.411 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.422 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.424 INFO     1 VertexShader with ID 103 has been succesfully compiled 
+22.03.2019 01:20:08.424 FATAL    1 FragmentShaderArb with ID 104 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.424 INFO     1 Program 105 has been succesfully linked 
+22.03.2019 01:20:08.430 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.441 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.445 INFO     1 VertexShader with ID 106 has been succesfully compiled 
+22.03.2019 01:20:08.445 FATAL    1 FragmentShaderArb with ID 107 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.445 INFO     1 Program 108 has been succesfully linked 
+22.03.2019 01:20:08.450 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.461 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.463 INFO     1 VertexShader with ID 109 has been succesfully compiled 
+22.03.2019 01:20:08.463 FATAL    1 FragmentShaderArb with ID 110 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.463 INFO     1 Program 111 has been succesfully linked 
+22.03.2019 01:20:08.467 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.476 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.479 INFO     1 VertexShader with ID 112 has been succesfully compiled 
+22.03.2019 01:20:08.480 FATAL    1 FragmentShaderArb with ID 113 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.480 INFO     1 Program 114 has been succesfully linked 
+22.03.2019 01:20:08.485 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.494 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.497 INFO     1 VertexShader with ID 115 has been succesfully compiled 
+22.03.2019 01:20:08.497 FATAL    1 FragmentShaderArb with ID 116 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.497 INFO     1 Program 117 has been succesfully linked 
+22.03.2019 01:20:08.502 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.512 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.514 INFO     1 VertexShader with ID 118 has been succesfully compiled 
+22.03.2019 01:20:08.514 FATAL    1 FragmentShaderArb with ID 119 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.514 INFO     1 Program 120 has been succesfully linked 
+22.03.2019 01:20:08.520 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.529 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.532 INFO     1 VertexShader with ID 121 has been succesfully compiled 
+22.03.2019 01:20:08.532 FATAL    1 FragmentShaderArb with ID 122 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.532 INFO     1 Program 123 has been succesfully linked 
+22.03.2019 01:20:08.538 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.549 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.553 INFO     1 VertexShader with ID 124 has been succesfully compiled 
+22.03.2019 01:20:08.553 FATAL    1 FragmentShaderArb with ID 125 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.553 INFO     1 Program 126 has been succesfully linked 
+22.03.2019 01:20:08.557 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.567 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.570 INFO     1 VertexShader with ID 127 has been succesfully compiled 
+22.03.2019 01:20:08.570 FATAL    1 FragmentShaderArb with ID 128 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.570 INFO     1 Program 129 has been succesfully linked 
+22.03.2019 01:20:08.575 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.585 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.587 INFO     1 VertexShader with ID 130 has been succesfully compiled 
+22.03.2019 01:20:08.588 FATAL    1 FragmentShaderArb with ID 131 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.588 INFO     1 Program 132 has been succesfully linked 
+22.03.2019 01:20:08.592 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.603 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.606 INFO     1 VertexShader with ID 133 has been succesfully compiled 
+22.03.2019 01:20:08.606 FATAL    1 FragmentShaderArb with ID 134 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.606 INFO     1 Program 135 has been succesfully linked 
+22.03.2019 01:20:08.611 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.620 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.623 INFO     1 VertexShader with ID 136 has been succesfully compiled 
+22.03.2019 01:20:08.624 FATAL    1 FragmentShaderArb with ID 137 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.624 INFO     1 Program 138 has been succesfully linked 
+22.03.2019 01:20:08.628 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.642 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.646 INFO     1 VertexShader with ID 139 has been succesfully compiled 
+22.03.2019 01:20:08.646 FATAL    1 FragmentShaderArb with ID 140 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.646 INFO     1 Program 141 has been succesfully linked 
+22.03.2019 01:20:08.652 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.665 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.668 INFO     1 VertexShader with ID 142 has been succesfully compiled 
+22.03.2019 01:20:08.669 FATAL    1 FragmentShaderArb with ID 143 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.669 INFO     1 Program 144 has been succesfully linked 
+22.03.2019 01:20:08.675 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.687 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.690 INFO     1 VertexShader with ID 145 has been succesfully compiled 
+22.03.2019 01:20:08.690 FATAL    1 FragmentShaderArb with ID 146 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.690 INFO     1 Program 147 has been succesfully linked 
+22.03.2019 01:20:08.696 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.707 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.711 INFO     1 VertexShader with ID 148 has been succesfully compiled 
+22.03.2019 01:20:08.712 FATAL    1 FragmentShaderArb with ID 149 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.712 INFO     1 Program 150 has been succesfully linked 
+22.03.2019 01:20:08.718 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.728 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.731 INFO     1 VertexShader with ID 151 has been succesfully compiled 
+22.03.2019 01:20:08.731 FATAL    1 FragmentShaderArb with ID 152 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.731 INFO     1 Program 153 has been succesfully linked 
+22.03.2019 01:20:08.737 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.749 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.752 INFO     1 VertexShader with ID 154 has been succesfully compiled 
+22.03.2019 01:20:08.752 FATAL    1 FragmentShaderArb with ID 155 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.752 INFO     1 Program 156 has been succesfully linked 
+22.03.2019 01:20:08.758 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.770 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.774 INFO     1 VertexShader with ID 157 has been succesfully compiled 
+22.03.2019 01:20:08.774 FATAL    1 FragmentShaderArb with ID 158 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.774 INFO     1 Program 159 has been succesfully linked 
+22.03.2019 01:20:08.780 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.793 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.800 INFO     1 VertexShader with ID 160 has been succesfully compiled 
+22.03.2019 01:20:08.800 FATAL    1 FragmentShaderArb with ID 161 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.800 INFO     1 Program 162 has been succesfully linked 
+22.03.2019 01:20:08.806 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.816 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.819 INFO     1 VertexShader with ID 163 has been succesfully compiled 
+22.03.2019 01:20:08.820 FATAL    1 FragmentShaderArb with ID 164 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.820 INFO     1 Program 165 has been succesfully linked 
+22.03.2019 01:20:08.825 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.835 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.839 INFO     1 VertexShader with ID 166 has been succesfully compiled 
+22.03.2019 01:20:08.839 FATAL    1 FragmentShaderArb with ID 167 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.839 INFO     1 Program 168 has been succesfully linked 
+22.03.2019 01:20:08.845 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.855 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.860 INFO     1 VertexShader with ID 169 has been succesfully compiled 
+22.03.2019 01:20:08.860 FATAL    1 FragmentShaderArb with ID 170 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.861 INFO     1 Program 171 has been succesfully linked 
+22.03.2019 01:20:08.867 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.878 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.883 INFO     1 VertexShader with ID 172 has been succesfully compiled 
+22.03.2019 01:20:08.883 FATAL    1 FragmentShaderArb with ID 173 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.883 INFO     1 Program 174 has been succesfully linked 
+22.03.2019 01:20:08.889 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.901 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.904 INFO     1 VertexShader with ID 175 has been succesfully compiled 
+22.03.2019 01:20:08.904 FATAL    1 FragmentShaderArb with ID 176 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.904 INFO     1 Program 177 has been succesfully linked 
+22.03.2019 01:20:08.910 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.920 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.924 INFO     1 VertexShader with ID 178 has been succesfully compiled 
+22.03.2019 01:20:08.924 FATAL    1 FragmentShaderArb with ID 179 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.925 INFO     1 Program 180 has been succesfully linked 
+22.03.2019 01:20:08.929 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.939 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.943 INFO     1 VertexShader with ID 181 has been succesfully compiled 
+22.03.2019 01:20:08.944 FATAL    1 FragmentShaderArb with ID 182 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.944 INFO     1 Program 183 has been succesfully linked 
+22.03.2019 01:20:08.948 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.958 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.961 INFO     1 VertexShader with ID 184 has been succesfully compiled 
+22.03.2019 01:20:08.961 FATAL    1 FragmentShaderArb with ID 185 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.961 INFO     1 Program 186 has been succesfully linked 
+22.03.2019 01:20:08.967 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:08.979 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:08.983 INFO     1 VertexShader with ID 187 has been succesfully compiled 
+22.03.2019 01:20:08.983 FATAL    1 FragmentShaderArb with ID 188 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:08.983 INFO     1 Program 189 has been succesfully linked 
+22.03.2019 01:20:08.988 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.000 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.003 INFO     1 VertexShader with ID 190 has been succesfully compiled 
+22.03.2019 01:20:09.003 FATAL    1 FragmentShaderArb with ID 191 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.003 INFO     1 Program 192 has been succesfully linked 
+22.03.2019 01:20:09.009 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.019 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.023 INFO     1 VertexShader with ID 193 has been succesfully compiled 
+22.03.2019 01:20:09.024 FATAL    1 FragmentShaderArb with ID 194 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.024 INFO     1 Program 195 has been succesfully linked 
+22.03.2019 01:20:09.029 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.038 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.043 INFO     1 VertexShader with ID 196 has been succesfully compiled 
+22.03.2019 01:20:09.043 FATAL    1 FragmentShaderArb with ID 197 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.043 INFO     1 Program 198 has been succesfully linked 
+22.03.2019 01:20:09.048 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.059 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.063 INFO     1 VertexShader with ID 199 has been succesfully compiled 
+22.03.2019 01:20:09.063 FATAL    1 FragmentShaderArb with ID 200 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.063 INFO     1 Program 201 has been succesfully linked 
+22.03.2019 01:20:09.068 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.079 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.083 INFO     1 VertexShader with ID 202 has been succesfully compiled 
+22.03.2019 01:20:09.083 FATAL    1 FragmentShaderArb with ID 203 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.084 INFO     1 Program 204 has been succesfully linked 
+22.03.2019 01:20:09.088 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.099 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.102 INFO     1 VertexShader with ID 205 has been succesfully compiled 
+22.03.2019 01:20:09.103 FATAL    1 FragmentShaderArb with ID 206 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.103 INFO     1 Program 207 has been succesfully linked 
+22.03.2019 01:20:09.107 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.117 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.121 INFO     1 VertexShader with ID 208 has been succesfully compiled 
+22.03.2019 01:20:09.121 FATAL    1 FragmentShaderArb with ID 209 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.121 INFO     1 Program 210 has been succesfully linked 
+22.03.2019 01:20:09.126 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.135 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.141 INFO     1 VertexShader with ID 211 has been succesfully compiled 
+22.03.2019 01:20:09.141 FATAL    1 FragmentShaderArb with ID 212 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.141 INFO     1 Program 213 has been succesfully linked 
+22.03.2019 01:20:09.149 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.159 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.167 INFO     1 VertexShader with ID 214 has been succesfully compiled 
+22.03.2019 01:20:09.167 FATAL    1 FragmentShaderArb with ID 215 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.167 INFO     1 Program 216 has been succesfully linked 
+22.03.2019 01:20:09.172 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.185 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.189 INFO     1 VertexShader with ID 217 has been succesfully compiled 
+22.03.2019 01:20:09.189 FATAL    1 FragmentShaderArb with ID 218 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.189 INFO     1 Program 219 has been succesfully linked 
+22.03.2019 01:20:09.194 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.205 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.208 INFO     1 VertexShader with ID 220 has been succesfully compiled 
+22.03.2019 01:20:09.208 FATAL    1 FragmentShaderArb with ID 221 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.209 INFO     1 Program 222 has been succesfully linked 
+22.03.2019 01:20:09.214 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.225 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.229 INFO     1 VertexShader with ID 223 has been succesfully compiled 
+22.03.2019 01:20:09.230 FATAL    1 FragmentShaderArb with ID 224 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.230 INFO     1 Program 225 has been succesfully linked 
+22.03.2019 01:20:09.234 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.245 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.251 INFO     1 VertexShader with ID 226 has been succesfully compiled 
+22.03.2019 01:20:09.251 FATAL    1 FragmentShaderArb with ID 227 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.251 INFO     1 Program 228 has been succesfully linked 
+22.03.2019 01:20:09.256 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.267 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.272 INFO     1 VertexShader with ID 229 has been succesfully compiled 
+22.03.2019 01:20:09.273 FATAL    1 FragmentShaderArb with ID 230 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.273 INFO     1 Program 231 has been succesfully linked 
+22.03.2019 01:20:09.277 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.289 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.293 INFO     1 VertexShader with ID 232 has been succesfully compiled 
+22.03.2019 01:20:09.294 FATAL    1 FragmentShaderArb with ID 233 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.294 INFO     1 Program 234 has been succesfully linked 
+22.03.2019 01:20:09.299 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.312 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.314 INFO     1 VertexShader with ID 235 has been succesfully compiled 
+22.03.2019 01:20:09.315 FATAL    1 FragmentShaderArb with ID 236 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.315 INFO     1 Program 237 has been succesfully linked 
+22.03.2019 01:20:09.319 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.330 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.332 INFO     1 VertexShader with ID 238 has been succesfully compiled 
+22.03.2019 01:20:09.332 FATAL    1 FragmentShaderArb with ID 239 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.332 INFO     1 Program 240 has been succesfully linked 
+22.03.2019 01:20:09.336 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.347 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.349 INFO     1 VertexShader with ID 241 has been succesfully compiled 
+22.03.2019 01:20:09.349 FATAL    1 FragmentShaderArb with ID 242 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.350 INFO     1 Program 243 has been succesfully linked 
+22.03.2019 01:20:09.353 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.364 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.369 INFO     1 VertexShader with ID 244 has been succesfully compiled 
+22.03.2019 01:20:09.369 FATAL    1 FragmentShaderArb with ID 245 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.369 INFO     1 Program 246 has been succesfully linked 
+22.03.2019 01:20:09.373 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.384 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.387 INFO     1 VertexShader with ID 247 has been succesfully compiled 
+22.03.2019 01:20:09.388 FATAL    1 FragmentShaderArb with ID 248 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.388 INFO     1 Program 249 has been succesfully linked 
+22.03.2019 01:20:09.394 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.404 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.408 INFO     1 VertexShader with ID 250 has been succesfully compiled 
+22.03.2019 01:20:09.408 FATAL    1 FragmentShaderArb with ID 251 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.408 INFO     1 Program 252 has been succesfully linked 
+22.03.2019 01:20:09.413 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.422 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.426 INFO     1 VertexShader with ID 253 has been succesfully compiled 
+22.03.2019 01:20:09.426 FATAL    1 FragmentShaderArb with ID 254 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.426 INFO     1 Program 255 has been succesfully linked 
+22.03.2019 01:20:09.432 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.441 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.444 INFO     1 VertexShader with ID 256 has been succesfully compiled 
+22.03.2019 01:20:09.445 FATAL    1 FragmentShaderArb with ID 257 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.445 INFO     1 Program 258 has been succesfully linked 
+22.03.2019 01:20:09.450 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.461 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.464 INFO     1 VertexShader with ID 259 has been succesfully compiled 
+22.03.2019 01:20:09.464 FATAL    1 FragmentShaderArb with ID 260 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.464 INFO     1 Program 261 has been succesfully linked 
+22.03.2019 01:20:09.469 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.480 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.483 INFO     1 VertexShader with ID 262 has been succesfully compiled 
+22.03.2019 01:20:09.484 FATAL    1 FragmentShaderArb with ID 263 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.484 INFO     1 Program 264 has been succesfully linked 
+22.03.2019 01:20:09.489 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.499 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.503 INFO     1 VertexShader with ID 265 has been succesfully compiled 
+22.03.2019 01:20:09.503 FATAL    1 FragmentShaderArb with ID 266 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.503 INFO     1 Program 267 has been succesfully linked 
+22.03.2019 01:20:09.510 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.518 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.521 INFO     1 VertexShader with ID 268 has been succesfully compiled 
+22.03.2019 01:20:09.522 FATAL    1 FragmentShaderArb with ID 269 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.522 INFO     1 Program 270 has been succesfully linked 
+22.03.2019 01:20:09.528 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.536 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.539 INFO     1 VertexShader with ID 271 has been succesfully compiled 
+22.03.2019 01:20:09.540 FATAL    1 FragmentShaderArb with ID 272 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.540 INFO     1 Program 273 has been succesfully linked 
+22.03.2019 01:20:09.546 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.557 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.563 INFO     1 VertexShader with ID 274 has been succesfully compiled 
+22.03.2019 01:20:09.563 FATAL    1 FragmentShaderArb with ID 275 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.564 INFO     1 Program 276 has been succesfully linked 
+22.03.2019 01:20:09.570 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.583 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.587 INFO     1 VertexShader with ID 277 has been succesfully compiled 
+22.03.2019 01:20:09.587 FATAL    1 FragmentShaderArb with ID 278 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.587 INFO     1 Program 279 has been succesfully linked 
+22.03.2019 01:20:09.593 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.602 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.606 INFO     1 VertexShader with ID 280 has been succesfully compiled 
+22.03.2019 01:20:09.606 FATAL    1 FragmentShaderArb with ID 281 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.606 INFO     1 Program 282 has been succesfully linked 
+22.03.2019 01:20:09.612 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.620 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.624 INFO     1 VertexShader with ID 283 has been succesfully compiled 
+22.03.2019 01:20:09.625 FATAL    1 FragmentShaderArb with ID 284 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.625 INFO     1 Program 285 has been succesfully linked 
+22.03.2019 01:20:09.630 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.638 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.641 INFO     1 VertexShader with ID 286 has been succesfully compiled 
+22.03.2019 01:20:09.641 FATAL    1 FragmentShaderArb with ID 287 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.642 INFO     1 Program 288 has been succesfully linked 
+22.03.2019 01:20:09.648 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.656 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.658 INFO     1 VertexShader with ID 289 has been succesfully compiled 
+22.03.2019 01:20:09.659 FATAL    1 FragmentShaderArb with ID 290 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.659 INFO     1 Program 291 has been succesfully linked 
+22.03.2019 01:20:09.664 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.673 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.675 INFO     1 VertexShader with ID 292 has been succesfully compiled 
+22.03.2019 01:20:09.675 FATAL    1 FragmentShaderArb with ID 293 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.675 INFO     1 Program 294 has been succesfully linked 
+22.03.2019 01:20:09.681 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.693 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.696 INFO     1 VertexShader with ID 295 has been succesfully compiled 
+22.03.2019 01:20:09.696 FATAL    1 FragmentShaderArb with ID 296 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.696 INFO     1 Program 297 has been succesfully linked 
+22.03.2019 01:20:09.701 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.713 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.715 INFO     1 VertexShader with ID 298 has been succesfully compiled 
+22.03.2019 01:20:09.715 FATAL    1 FragmentShaderArb with ID 299 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.715 INFO     1 Program 300 has been succesfully linked 
+22.03.2019 01:20:09.720 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.730 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.733 INFO     1 VertexShader with ID 301 has been succesfully compiled 
+22.03.2019 01:20:09.733 FATAL    1 FragmentShaderArb with ID 302 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.733 INFO     1 Program 303 has been succesfully linked 
+22.03.2019 01:20:09.738 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.748 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.752 INFO     1 VertexShader with ID 304 has been succesfully compiled 
+22.03.2019 01:20:09.753 FATAL    1 FragmentShaderArb with ID 305 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.753 INFO     1 Program 306 has been succesfully linked 
+22.03.2019 01:20:09.757 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.768 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.770 INFO     1 VertexShader with ID 307 has been succesfully compiled 
+22.03.2019 01:20:09.771 FATAL    1 FragmentShaderArb with ID 308 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.771 INFO     1 Program 309 has been succesfully linked 
+22.03.2019 01:20:09.776 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.785 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.788 INFO     1 VertexShader with ID 310 has been succesfully compiled 
+22.03.2019 01:20:09.788 FATAL    1 FragmentShaderArb with ID 311 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.788 INFO     1 Program 312 has been succesfully linked 
+22.03.2019 01:20:09.795 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.804 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.807 INFO     1 VertexShader with ID 313 has been succesfully compiled 
+22.03.2019 01:20:09.808 FATAL    1 FragmentShaderArb with ID 314 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.808 INFO     1 Program 315 has been succesfully linked 
+22.03.2019 01:20:09.813 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.822 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.825 INFO     1 VertexShader with ID 316 has been succesfully compiled 
+22.03.2019 01:20:09.825 FATAL    1 FragmentShaderArb with ID 317 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.826 INFO     1 Program 318 has been succesfully linked 
+22.03.2019 01:20:09.831 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.840 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.844 INFO     1 VertexShader with ID 319 has been succesfully compiled 
+22.03.2019 01:20:09.844 FATAL    1 FragmentShaderArb with ID 320 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.844 INFO     1 Program 321 has been succesfully linked 
+22.03.2019 01:20:09.848 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.857 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.861 INFO     1 VertexShader with ID 322 has been succesfully compiled 
+22.03.2019 01:20:09.861 FATAL    1 FragmentShaderArb with ID 323 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.861 INFO     1 Program 324 has been succesfully linked 
+22.03.2019 01:20:09.867 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.877 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.879 INFO     1 VertexShader with ID 325 has been succesfully compiled 
+22.03.2019 01:20:09.879 FATAL    1 FragmentShaderArb with ID 326 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.879 INFO     1 Program 327 has been succesfully linked 
+22.03.2019 01:20:09.884 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.894 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.896 INFO     1 VertexShader with ID 328 has been succesfully compiled 
+22.03.2019 01:20:09.896 FATAL    1 FragmentShaderArb with ID 329 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.896 INFO     1 Program 330 has been succesfully linked 
+22.03.2019 01:20:09.900 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.911 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.913 INFO     1 VertexShader with ID 331 has been succesfully compiled 
+22.03.2019 01:20:09.913 FATAL    1 FragmentShaderArb with ID 332 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.913 INFO     1 Program 333 has been succesfully linked 
+22.03.2019 01:20:09.918 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.928 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.931 INFO     1 VertexShader with ID 334 has been succesfully compiled 
+22.03.2019 01:20:09.931 FATAL    1 FragmentShaderArb with ID 335 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.932 INFO     1 Program 336 has been succesfully linked 
+22.03.2019 01:20:09.937 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.948 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.950 INFO     1 VertexShader with ID 337 has been succesfully compiled 
+22.03.2019 01:20:09.951 FATAL    1 FragmentShaderArb with ID 338 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.951 INFO     1 Program 339 has been succesfully linked 
+22.03.2019 01:20:09.956 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.965 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.973 INFO     1 VertexShader with ID 340 has been succesfully compiled 
+22.03.2019 01:20:09.973 FATAL    1 FragmentShaderArb with ID 341 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.973 INFO     1 Program 342 has been succesfully linked 
+22.03.2019 01:20:09.981 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:09.995 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:09.997 INFO     1 VertexShader with ID 343 has been succesfully compiled 
+22.03.2019 01:20:09.998 FATAL    1 FragmentShaderArb with ID 344 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:09.998 INFO     1 Program 345 has been succesfully linked 
+22.03.2019 01:20:10.004 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.015 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.017 INFO     1 VertexShader with ID 346 has been succesfully compiled 
+22.03.2019 01:20:10.018 FATAL    1 FragmentShaderArb with ID 347 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.018 INFO     1 Program 348 has been succesfully linked 
+22.03.2019 01:20:10.022 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.032 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.034 INFO     1 VertexShader with ID 349 has been succesfully compiled 
+22.03.2019 01:20:10.034 FATAL    1 FragmentShaderArb with ID 350 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.034 INFO     1 Program 351 has been succesfully linked 
+22.03.2019 01:20:10.039 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.050 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.053 INFO     1 VertexShader with ID 352 has been succesfully compiled 
+22.03.2019 01:20:10.053 FATAL    1 FragmentShaderArb with ID 353 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.053 INFO     1 Program 354 has been succesfully linked 
+22.03.2019 01:20:10.057 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.067 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.070 INFO     1 VertexShader with ID 355 has been succesfully compiled 
+22.03.2019 01:20:10.071 FATAL    1 FragmentShaderArb with ID 356 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.071 INFO     1 Program 357 has been succesfully linked 
+22.03.2019 01:20:10.076 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.084 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.086 INFO     1 VertexShader with ID 358 has been succesfully compiled 
+22.03.2019 01:20:10.086 FATAL    1 FragmentShaderArb with ID 359 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.086 INFO     1 Program 360 has been succesfully linked 
+22.03.2019 01:20:10.090 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.099 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.101 INFO     1 VertexShader with ID 361 has been succesfully compiled 
+22.03.2019 01:20:10.102 FATAL    1 FragmentShaderArb with ID 362 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.102 INFO     1 Program 363 has been succesfully linked 
+22.03.2019 01:20:10.108 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.120 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.123 INFO     1 VertexShader with ID 364 has been succesfully compiled 
+22.03.2019 01:20:10.123 FATAL    1 FragmentShaderArb with ID 365 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.123 INFO     1 Program 366 has been succesfully linked 
+22.03.2019 01:20:10.129 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.139 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.141 INFO     1 VertexShader with ID 367 has been succesfully compiled 
+22.03.2019 01:20:10.141 FATAL    1 FragmentShaderArb with ID 368 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.141 INFO     1 Program 369 has been succesfully linked 
+22.03.2019 01:20:10.147 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.157 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.161 INFO     1 VertexShader with ID 370 has been succesfully compiled 
+22.03.2019 01:20:10.162 FATAL    1 FragmentShaderArb with ID 371 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.162 INFO     1 Program 372 has been succesfully linked 
+22.03.2019 01:20:10.166 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.179 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.182 INFO     1 VertexShader with ID 373 has been succesfully compiled 
+22.03.2019 01:20:10.182 FATAL    1 FragmentShaderArb with ID 374 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.182 INFO     1 Program 375 has been succesfully linked 
+22.03.2019 01:20:10.188 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.201 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.204 INFO     1 VertexShader with ID 376 has been succesfully compiled 
+22.03.2019 01:20:10.204 FATAL    1 FragmentShaderArb with ID 377 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.205 INFO     1 Program 378 has been succesfully linked 
+22.03.2019 01:20:10.211 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.221 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.224 INFO     1 VertexShader with ID 379 has been succesfully compiled 
+22.03.2019 01:20:10.224 FATAL    1 FragmentShaderArb with ID 380 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.224 INFO     1 Program 381 has been succesfully linked 
+22.03.2019 01:20:10.228 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.237 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.240 INFO     1 VertexShader with ID 382 has been succesfully compiled 
+22.03.2019 01:20:10.240 FATAL    1 FragmentShaderArb with ID 383 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.240 INFO     1 Program 384 has been succesfully linked 
+22.03.2019 01:20:10.245 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.255 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.257 INFO     1 VertexShader with ID 385 has been succesfully compiled 
+22.03.2019 01:20:10.257 FATAL    1 FragmentShaderArb with ID 386 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.257 INFO     1 Program 387 has been succesfully linked 
+22.03.2019 01:20:10.262 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.271 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.275 INFO     1 VertexShader with ID 388 has been succesfully compiled 
+22.03.2019 01:20:10.275 FATAL    1 FragmentShaderArb with ID 389 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.276 INFO     1 Program 390 has been succesfully linked 
+22.03.2019 01:20:10.280 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.289 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.292 INFO     1 VertexShader with ID 391 has been succesfully compiled 
+22.03.2019 01:20:10.292 FATAL    1 FragmentShaderArb with ID 392 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.293 INFO     1 Program 393 has been succesfully linked 
+22.03.2019 01:20:10.298 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.307 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.310 INFO     1 VertexShader with ID 394 has been succesfully compiled 
+22.03.2019 01:20:10.310 FATAL    1 FragmentShaderArb with ID 395 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.311 INFO     1 Program 396 has been succesfully linked 
+22.03.2019 01:20:10.316 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.326 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.330 INFO     1 VertexShader with ID 397 has been succesfully compiled 
+22.03.2019 01:20:10.330 FATAL    1 FragmentShaderArb with ID 398 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.330 INFO     1 Program 399 has been succesfully linked 
+22.03.2019 01:20:10.336 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.345 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.349 INFO     1 VertexShader with ID 400 has been succesfully compiled 
+22.03.2019 01:20:10.350 FATAL    1 FragmentShaderArb with ID 401 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.351 INFO     1 Program 402 has been succesfully linked 
+22.03.2019 01:20:10.355 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.365 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.367 INFO     1 VertexShader with ID 403 has been succesfully compiled 
+22.03.2019 01:20:10.368 FATAL    1 FragmentShaderArb with ID 404 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.368 INFO     1 Program 405 has been succesfully linked 
+22.03.2019 01:20:10.375 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.384 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.392 INFO     1 VertexShader with ID 406 has been succesfully compiled 
+22.03.2019 01:20:10.392 FATAL    1 FragmentShaderArb with ID 407 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.392 INFO     1 Program 408 has been succesfully linked 
+22.03.2019 01:20:10.398 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.408 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.411 INFO     1 VertexShader with ID 409 has been succesfully compiled 
+22.03.2019 01:20:10.411 FATAL    1 FragmentShaderArb with ID 410 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.411 INFO     1 Program 411 has been succesfully linked 
+22.03.2019 01:20:10.417 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.427 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.430 INFO     1 VertexShader with ID 412 has been succesfully compiled 
+22.03.2019 01:20:10.431 FATAL    1 FragmentShaderArb with ID 413 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.431 INFO     1 Program 414 has been succesfully linked 
+22.03.2019 01:20:10.436 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.446 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.449 INFO     1 VertexShader with ID 415 has been succesfully compiled 
+22.03.2019 01:20:10.449 FATAL    1 FragmentShaderArb with ID 416 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.449 INFO     1 Program 417 has been succesfully linked 
+22.03.2019 01:20:10.455 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.465 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.468 INFO     1 VertexShader with ID 418 has been succesfully compiled 
+22.03.2019 01:20:10.468 FATAL    1 FragmentShaderArb with ID 419 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.468 INFO     1 Program 420 has been succesfully linked 
+22.03.2019 01:20:10.474 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.485 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.488 INFO     1 VertexShader with ID 421 has been succesfully compiled 
+22.03.2019 01:20:10.489 FATAL    1 FragmentShaderArb with ID 422 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.489 INFO     1 Program 423 has been succesfully linked 
+22.03.2019 01:20:10.494 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.505 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.508 INFO     1 VertexShader with ID 424 has been succesfully compiled 
+22.03.2019 01:20:10.508 FATAL    1 FragmentShaderArb with ID 425 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.508 INFO     1 Program 426 has been succesfully linked 
+22.03.2019 01:20:10.514 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.525 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.527 INFO     1 VertexShader with ID 427 has been succesfully compiled 
+22.03.2019 01:20:10.527 FATAL    1 FragmentShaderArb with ID 428 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.527 INFO     1 Program 429 has been succesfully linked 
+22.03.2019 01:20:10.533 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.544 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.546 INFO     1 VertexShader with ID 430 has been succesfully compiled 
+22.03.2019 01:20:10.547 FATAL    1 FragmentShaderArb with ID 431 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.547 INFO     1 Program 432 has been succesfully linked 
+22.03.2019 01:20:10.552 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.563 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.565 INFO     1 VertexShader with ID 433 has been succesfully compiled 
+22.03.2019 01:20:10.565 FATAL    1 FragmentShaderArb with ID 434 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.565 INFO     1 Program 435 has been succesfully linked 
+22.03.2019 01:20:10.570 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.579 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.581 INFO     1 VertexShader with ID 436 has been succesfully compiled 
+22.03.2019 01:20:10.582 FATAL    1 FragmentShaderArb with ID 437 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.582 INFO     1 Program 438 has been succesfully linked 
+22.03.2019 01:20:10.586 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.596 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.601 INFO     1 VertexShader with ID 439 has been succesfully compiled 
+22.03.2019 01:20:10.601 FATAL    1 FragmentShaderArb with ID 440 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.601 INFO     1 Program 441 has been succesfully linked 
+22.03.2019 01:20:10.605 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.618 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.621 INFO     1 VertexShader with ID 442 has been succesfully compiled 
+22.03.2019 01:20:10.621 FATAL    1 FragmentShaderArb with ID 443 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.621 INFO     1 Program 444 has been succesfully linked 
+22.03.2019 01:20:10.626 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.635 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.638 INFO     1 VertexShader with ID 445 has been succesfully compiled 
+22.03.2019 01:20:10.638 FATAL    1 FragmentShaderArb with ID 446 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.638 INFO     1 Program 447 has been succesfully linked 
+22.03.2019 01:20:10.644 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.653 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.656 INFO     1 VertexShader with ID 448 has been succesfully compiled 
+22.03.2019 01:20:10.656 FATAL    1 FragmentShaderArb with ID 449 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.656 INFO     1 Program 450 has been succesfully linked 
+22.03.2019 01:20:10.662 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.670 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.674 INFO     1 VertexShader with ID 451 has been succesfully compiled 
+22.03.2019 01:20:10.674 FATAL    1 FragmentShaderArb with ID 452 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.674 INFO     1 Program 453 has been succesfully linked 
+22.03.2019 01:20:10.680 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.688 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.691 INFO     1 VertexShader with ID 454 has been succesfully compiled 
+22.03.2019 01:20:10.692 FATAL    1 FragmentShaderArb with ID 455 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.692 INFO     1 Program 456 has been succesfully linked 
+22.03.2019 01:20:10.696 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.707 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.709 INFO     1 VertexShader with ID 457 has been succesfully compiled 
+22.03.2019 01:20:10.710 FATAL    1 FragmentShaderArb with ID 458 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.710 INFO     1 Program 459 has been succesfully linked 
+22.03.2019 01:20:10.715 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.727 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.729 INFO     1 VertexShader with ID 460 has been succesfully compiled 
+22.03.2019 01:20:10.729 FATAL    1 FragmentShaderArb with ID 461 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.729 INFO     1 Program 462 has been succesfully linked 
+22.03.2019 01:20:10.734 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.744 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.746 INFO     1 VertexShader with ID 463 has been succesfully compiled 
+22.03.2019 01:20:10.747 FATAL    1 FragmentShaderArb with ID 464 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.747 INFO     1 Program 465 has been succesfully linked 
+22.03.2019 01:20:10.751 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.763 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.765 INFO     1 VertexShader with ID 466 has been succesfully compiled 
+22.03.2019 01:20:10.765 FATAL    1 FragmentShaderArb with ID 467 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.765 INFO     1 Program 468 has been succesfully linked 
+22.03.2019 01:20:10.770 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.783 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.786 INFO     1 VertexShader with ID 469 has been succesfully compiled 
+22.03.2019 01:20:10.786 FATAL    1 FragmentShaderArb with ID 470 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.786 INFO     1 Program 471 has been succesfully linked 
+22.03.2019 01:20:10.792 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.804 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.807 INFO     1 VertexShader with ID 472 has been succesfully compiled 
+22.03.2019 01:20:10.807 FATAL    1 FragmentShaderArb with ID 473 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.807 INFO     1 Program 474 has been succesfully linked 
+22.03.2019 01:20:10.813 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.822 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.824 INFO     1 VertexShader with ID 475 has been succesfully compiled 
+22.03.2019 01:20:10.824 FATAL    1 FragmentShaderArb with ID 476 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.825 INFO     1 Program 477 has been succesfully linked 
+22.03.2019 01:20:10.830 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.844 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.847 INFO     1 VertexShader with ID 478 has been succesfully compiled 
+22.03.2019 01:20:10.847 FATAL    1 FragmentShaderArb with ID 479 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.847 INFO     1 Program 480 has been succesfully linked 
+22.03.2019 01:20:10.854 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.866 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.869 INFO     1 VertexShader with ID 481 has been succesfully compiled 
+22.03.2019 01:20:10.869 FATAL    1 FragmentShaderArb with ID 482 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.869 INFO     1 Program 483 has been succesfully linked 
+22.03.2019 01:20:10.874 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.884 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.886 INFO     1 VertexShader with ID 484 has been succesfully compiled 
+22.03.2019 01:20:10.887 FATAL    1 FragmentShaderArb with ID 485 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.887 INFO     1 Program 486 has been succesfully linked 
+22.03.2019 01:20:10.892 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.903 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.905 INFO     1 VertexShader with ID 487 has been succesfully compiled 
+22.03.2019 01:20:10.905 FATAL    1 FragmentShaderArb with ID 488 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.905 INFO     1 Program 489 has been succesfully linked 
+22.03.2019 01:20:10.910 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.919 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.921 INFO     1 VertexShader with ID 490 has been succesfully compiled 
+22.03.2019 01:20:10.921 FATAL    1 FragmentShaderArb with ID 491 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.921 INFO     1 Program 492 has been succesfully linked 
+22.03.2019 01:20:10.927 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.936 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.939 INFO     1 VertexShader with ID 493 has been succesfully compiled 
+22.03.2019 01:20:10.939 FATAL    1 FragmentShaderArb with ID 494 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.939 INFO     1 Program 495 has been succesfully linked 
+22.03.2019 01:20:10.944 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.952 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.956 INFO     1 VertexShader with ID 496 has been succesfully compiled 
+22.03.2019 01:20:10.956 FATAL    1 FragmentShaderArb with ID 497 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.956 INFO     1 Program 498 has been succesfully linked 
+22.03.2019 01:20:10.962 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.970 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.975 INFO     1 VertexShader with ID 499 has been succesfully compiled 
+22.03.2019 01:20:10.976 FATAL    1 FragmentShaderArb with ID 500 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.976 INFO     1 Program 501 has been succesfully linked 
+22.03.2019 01:20:10.982 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:10.990 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:10.994 INFO     1 VertexShader with ID 502 has been succesfully compiled 
+22.03.2019 01:20:10.994 FATAL    1 FragmentShaderArb with ID 503 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:10.994 INFO     1 Program 504 has been succesfully linked 
+22.03.2019 01:20:11.000 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.010 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.013 INFO     1 VertexShader with ID 505 has been succesfully compiled 
+22.03.2019 01:20:11.014 FATAL    1 FragmentShaderArb with ID 506 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.014 INFO     1 Program 507 has been succesfully linked 
+22.03.2019 01:20:11.018 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.027 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.029 INFO     1 VertexShader with ID 508 has been succesfully compiled 
+22.03.2019 01:20:11.029 FATAL    1 FragmentShaderArb with ID 509 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.029 INFO     1 Program 510 has been succesfully linked 
+22.03.2019 01:20:11.034 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.045 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.047 INFO     1 VertexShader with ID 511 has been succesfully compiled 
+22.03.2019 01:20:11.047 FATAL    1 FragmentShaderArb with ID 512 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.047 INFO     1 Program 513 has been succesfully linked 
+22.03.2019 01:20:11.052 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.063 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.066 INFO     1 VertexShader with ID 514 has been succesfully compiled 
+22.03.2019 01:20:11.066 FATAL    1 FragmentShaderArb with ID 515 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.066 INFO     1 Program 516 has been succesfully linked 
+22.03.2019 01:20:11.070 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.081 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.083 INFO     1 VertexShader with ID 517 has been succesfully compiled 
+22.03.2019 01:20:11.083 FATAL    1 FragmentShaderArb with ID 518 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.083 INFO     1 Program 519 has been succesfully linked 
+22.03.2019 01:20:11.088 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.099 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.103 INFO     1 VertexShader with ID 520 has been succesfully compiled 
+22.03.2019 01:20:11.103 FATAL    1 FragmentShaderArb with ID 521 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.103 INFO     1 Program 522 has been succesfully linked 
+22.03.2019 01:20:11.108 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.118 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.121 INFO     1 VertexShader with ID 523 has been succesfully compiled 
+22.03.2019 01:20:11.121 FATAL    1 FragmentShaderArb with ID 524 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.121 INFO     1 Program 525 has been succesfully linked 
+22.03.2019 01:20:11.126 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.135 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.139 INFO     1 VertexShader with ID 526 has been succesfully compiled 
+22.03.2019 01:20:11.139 FATAL    1 FragmentShaderArb with ID 527 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.139 INFO     1 Program 528 has been succesfully linked 
+22.03.2019 01:20:11.144 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.152 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.157 INFO     1 VertexShader with ID 529 has been succesfully compiled 
+22.03.2019 01:20:11.157 FATAL    1 FragmentShaderArb with ID 530 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.157 INFO     1 Program 531 has been succesfully linked 
+22.03.2019 01:20:11.163 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.171 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.174 INFO     1 VertexShader with ID 532 has been succesfully compiled 
+22.03.2019 01:20:11.175 FATAL    1 FragmentShaderArb with ID 533 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.175 INFO     1 Program 534 has been succesfully linked 
+22.03.2019 01:20:11.180 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.193 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.197 INFO     1 VertexShader with ID 535 has been succesfully compiled 
+22.03.2019 01:20:11.198 FATAL    1 FragmentShaderArb with ID 536 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.198 INFO     1 Program 537 has been succesfully linked 
+22.03.2019 01:20:11.203 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.214 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.218 INFO     1 VertexShader with ID 538 has been succesfully compiled 
+22.03.2019 01:20:11.218 FATAL    1 FragmentShaderArb with ID 539 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.218 INFO     1 Program 540 has been succesfully linked 
+22.03.2019 01:20:11.222 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.230 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.233 INFO     1 VertexShader with ID 541 has been succesfully compiled 
+22.03.2019 01:20:11.234 FATAL    1 FragmentShaderArb with ID 542 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.234 INFO     1 Program 543 has been succesfully linked 
+22.03.2019 01:20:11.240 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.250 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.252 INFO     1 VertexShader with ID 544 has been succesfully compiled 
+22.03.2019 01:20:11.253 FATAL    1 FragmentShaderArb with ID 545 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.253 INFO     1 Program 546 has been succesfully linked 
+22.03.2019 01:20:11.259 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.270 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.272 INFO     1 VertexShader with ID 547 has been succesfully compiled 
+22.03.2019 01:20:11.272 FATAL    1 FragmentShaderArb with ID 548 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.273 INFO     1 Program 549 has been succesfully linked 
+22.03.2019 01:20:11.278 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.288 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.290 INFO     1 VertexShader with ID 550 has been succesfully compiled 
+22.03.2019 01:20:11.290 FATAL    1 FragmentShaderArb with ID 551 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.290 INFO     1 Program 552 has been succesfully linked 
+22.03.2019 01:20:11.296 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.305 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.307 INFO     1 VertexShader with ID 553 has been succesfully compiled 
+22.03.2019 01:20:11.307 FATAL    1 FragmentShaderArb with ID 554 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.307 INFO     1 Program 555 has been succesfully linked 
+22.03.2019 01:20:11.313 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.322 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.324 INFO     1 VertexShader with ID 556 has been succesfully compiled 
+22.03.2019 01:20:11.324 FATAL    1 FragmentShaderArb with ID 557 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.325 INFO     1 Program 558 has been succesfully linked 
+22.03.2019 01:20:11.329 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.337 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.340 INFO     1 VertexShader with ID 559 has been succesfully compiled 
+22.03.2019 01:20:11.341 FATAL    1 FragmentShaderArb with ID 560 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.341 INFO     1 Program 561 has been succesfully linked 
+22.03.2019 01:20:11.348 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.360 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.363 INFO     1 VertexShader with ID 562 has been succesfully compiled 
+22.03.2019 01:20:11.364 FATAL    1 FragmentShaderArb with ID 563 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.364 INFO     1 Program 564 has been succesfully linked 
+22.03.2019 01:20:11.369 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.379 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.384 INFO     1 VertexShader with ID 565 has been succesfully compiled 
+22.03.2019 01:20:11.384 FATAL    1 FragmentShaderArb with ID 566 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.384 INFO     1 Program 567 has been succesfully linked 
+22.03.2019 01:20:11.389 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.400 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.404 INFO     1 VertexShader with ID 568 has been succesfully compiled 
+22.03.2019 01:20:11.404 FATAL    1 FragmentShaderArb with ID 569 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.404 INFO     1 Program 570 has been succesfully linked 
+22.03.2019 01:20:11.411 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.425 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.429 INFO     1 VertexShader with ID 571 has been succesfully compiled 
+22.03.2019 01:20:11.430 FATAL    1 FragmentShaderArb with ID 572 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.430 INFO     1 Program 573 has been succesfully linked 
+22.03.2019 01:20:11.436 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.449 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.451 INFO     1 VertexShader with ID 574 has been succesfully compiled 
+22.03.2019 01:20:11.451 FATAL    1 FragmentShaderArb with ID 575 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.451 INFO     1 Program 576 has been succesfully linked 
+22.03.2019 01:20:11.457 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.467 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.469 INFO     1 VertexShader with ID 577 has been succesfully compiled 
+22.03.2019 01:20:11.469 FATAL    1 FragmentShaderArb with ID 578 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.469 INFO     1 Program 579 has been succesfully linked 
+22.03.2019 01:20:11.474 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.484 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.486 INFO     1 VertexShader with ID 580 has been succesfully compiled 
+22.03.2019 01:20:11.486 FATAL    1 FragmentShaderArb with ID 581 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.486 INFO     1 Program 582 has been succesfully linked 
+22.03.2019 01:20:11.491 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.502 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.505 INFO     1 VertexShader with ID 583 has been succesfully compiled 
+22.03.2019 01:20:11.505 FATAL    1 FragmentShaderArb with ID 584 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.505 INFO     1 Program 585 has been succesfully linked 
+22.03.2019 01:20:11.511 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.520 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.524 INFO     1 VertexShader with ID 586 has been succesfully compiled 
+22.03.2019 01:20:11.524 FATAL    1 FragmentShaderArb with ID 587 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.524 INFO     1 Program 588 has been succesfully linked 
+22.03.2019 01:20:11.529 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.538 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.542 INFO     1 VertexShader with ID 589 has been succesfully compiled 
+22.03.2019 01:20:11.542 FATAL    1 FragmentShaderArb with ID 590 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.542 INFO     1 Program 591 has been succesfully linked 
+22.03.2019 01:20:11.548 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.558 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.561 INFO     1 VertexShader with ID 592 has been succesfully compiled 
+22.03.2019 01:20:11.562 FATAL    1 FragmentShaderArb with ID 593 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.562 INFO     1 Program 594 has been succesfully linked 
+22.03.2019 01:20:11.568 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.577 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.581 INFO     1 VertexShader with ID 595 has been succesfully compiled 
+22.03.2019 01:20:11.581 FATAL    1 FragmentShaderArb with ID 596 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.581 INFO     1 Program 597 has been succesfully linked 
+22.03.2019 01:20:11.586 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.596 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.600 INFO     1 VertexShader with ID 598 has been succesfully compiled 
+22.03.2019 01:20:11.600 FATAL    1 FragmentShaderArb with ID 599 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.600 INFO     1 Program 600 has been succesfully linked 
+22.03.2019 01:20:11.605 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.614 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.617 INFO     1 VertexShader with ID 601 has been succesfully compiled 
+22.03.2019 01:20:11.618 FATAL    1 FragmentShaderArb with ID 602 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.618 INFO     1 Program 603 has been succesfully linked 
+22.03.2019 01:20:11.623 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.632 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.634 INFO     1 VertexShader with ID 604 has been succesfully compiled 
+22.03.2019 01:20:11.635 FATAL    1 FragmentShaderArb with ID 605 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.635 INFO     1 Program 606 has been succesfully linked 
+22.03.2019 01:20:11.640 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.652 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.655 INFO     1 VertexShader with ID 607 has been succesfully compiled 
+22.03.2019 01:20:11.655 FATAL    1 FragmentShaderArb with ID 608 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.655 INFO     1 Program 609 has been succesfully linked 
+22.03.2019 01:20:11.661 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.670 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.673 INFO     1 VertexShader with ID 610 has been succesfully compiled 
+22.03.2019 01:20:11.673 FATAL    1 FragmentShaderArb with ID 611 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.673 INFO     1 Program 612 has been succesfully linked 
+22.03.2019 01:20:11.679 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.688 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.691 INFO     1 VertexShader with ID 613 has been succesfully compiled 
+22.03.2019 01:20:11.691 FATAL    1 FragmentShaderArb with ID 614 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.691 INFO     1 Program 615 has been succesfully linked 
+22.03.2019 01:20:11.696 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.706 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.708 INFO     1 VertexShader with ID 616 has been succesfully compiled 
+22.03.2019 01:20:11.708 FATAL    1 FragmentShaderArb with ID 617 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.709 INFO     1 Program 618 has been succesfully linked 
+22.03.2019 01:20:11.714 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.725 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.730 INFO     1 VertexShader with ID 619 has been succesfully compiled 
+22.03.2019 01:20:11.730 FATAL    1 FragmentShaderArb with ID 620 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.730 INFO     1 Program 621 has been succesfully linked 
+22.03.2019 01:20:11.734 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.745 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.750 INFO     1 VertexShader with ID 622 has been succesfully compiled 
+22.03.2019 01:20:11.750 FATAL    1 FragmentShaderArb with ID 623 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.750 INFO     1 Program 624 has been succesfully linked 
+22.03.2019 01:20:11.754 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.765 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.770 INFO     1 VertexShader with ID 625 has been succesfully compiled 
+22.03.2019 01:20:11.770 FATAL    1 FragmentShaderArb with ID 626 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.770 INFO     1 Program 627 has been succesfully linked 
+22.03.2019 01:20:11.776 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.788 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.791 INFO     1 VertexShader with ID 628 has been succesfully compiled 
+22.03.2019 01:20:11.791 FATAL    1 FragmentShaderArb with ID 629 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.791 INFO     1 Program 630 has been succesfully linked 
+22.03.2019 01:20:11.796 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.806 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.810 INFO     1 VertexShader with ID 631 has been succesfully compiled 
+22.03.2019 01:20:11.811 FATAL    1 FragmentShaderArb with ID 632 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.811 INFO     1 Program 633 has been succesfully linked 
+22.03.2019 01:20:11.815 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.826 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.831 INFO     1 VertexShader with ID 634 has been succesfully compiled 
+22.03.2019 01:20:11.831 FATAL    1 FragmentShaderArb with ID 635 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.831 INFO     1 Program 636 has been succesfully linked 
+22.03.2019 01:20:11.837 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.849 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.851 INFO     1 VertexShader with ID 637 has been succesfully compiled 
+22.03.2019 01:20:11.851 FATAL    1 FragmentShaderArb with ID 638 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.851 INFO     1 Program 639 has been succesfully linked 
+22.03.2019 01:20:11.856 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.866 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.869 INFO     1 VertexShader with ID 640 has been succesfully compiled 
+22.03.2019 01:20:11.869 FATAL    1 FragmentShaderArb with ID 641 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.869 INFO     1 Program 642 has been succesfully linked 
+22.03.2019 01:20:11.873 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.884 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.888 INFO     1 VertexShader with ID 643 has been succesfully compiled 
+22.03.2019 01:20:11.888 FATAL    1 FragmentShaderArb with ID 644 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.888 INFO     1 Program 645 has been succesfully linked 
+22.03.2019 01:20:11.894 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.905 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.909 INFO     1 VertexShader with ID 646 has been succesfully compiled 
+22.03.2019 01:20:11.909 FATAL    1 FragmentShaderArb with ID 647 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.909 INFO     1 Program 648 has been succesfully linked 
+22.03.2019 01:20:11.914 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.926 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.931 INFO     1 VertexShader with ID 649 has been succesfully compiled 
+22.03.2019 01:20:11.931 FATAL    1 FragmentShaderArb with ID 650 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.931 INFO     1 Program 651 has been succesfully linked 
+22.03.2019 01:20:11.935 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.946 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.950 INFO     1 VertexShader with ID 652 has been succesfully compiled 
+22.03.2019 01:20:11.950 FATAL    1 FragmentShaderArb with ID 653 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.950 INFO     1 Program 654 has been succesfully linked 
+22.03.2019 01:20:11.955 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.965 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.968 INFO     1 VertexShader with ID 655 has been succesfully compiled 
+22.03.2019 01:20:11.968 FATAL    1 FragmentShaderArb with ID 656 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.968 INFO     1 Program 657 has been succesfully linked 
+22.03.2019 01:20:11.974 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:11.983 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:11.986 INFO     1 VertexShader with ID 658 has been succesfully compiled 
+22.03.2019 01:20:11.986 FATAL    1 FragmentShaderArb with ID 659 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:11.986 INFO     1 Program 660 has been succesfully linked 
+22.03.2019 01:20:11.992 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.001 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.005 INFO     1 VertexShader with ID 661 has been succesfully compiled 
+22.03.2019 01:20:12.005 FATAL    1 FragmentShaderArb with ID 662 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.005 INFO     1 Program 663 has been succesfully linked 
+22.03.2019 01:20:12.011 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.021 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.025 INFO     1 VertexShader with ID 664 has been succesfully compiled 
+22.03.2019 01:20:12.026 FATAL    1 FragmentShaderArb with ID 665 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.026 INFO     1 Program 666 has been succesfully linked 
+22.03.2019 01:20:12.031 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.039 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.043 INFO     1 VertexShader with ID 667 has been succesfully compiled 
+22.03.2019 01:20:12.043 FATAL    1 FragmentShaderArb with ID 668 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.044 INFO     1 Program 669 has been succesfully linked 
+22.03.2019 01:20:12.049 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.060 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.063 INFO     1 VertexShader with ID 670 has been succesfully compiled 
+22.03.2019 01:20:12.064 FATAL    1 FragmentShaderArb with ID 671 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.064 INFO     1 Program 672 has been succesfully linked 
+22.03.2019 01:20:12.069 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.078 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.082 INFO     1 VertexShader with ID 673 has been succesfully compiled 
+22.03.2019 01:20:12.083 FATAL    1 FragmentShaderArb with ID 674 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.083 INFO     1 Program 675 has been succesfully linked 
+22.03.2019 01:20:12.087 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.098 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.100 INFO     1 VertexShader with ID 676 has been succesfully compiled 
+22.03.2019 01:20:12.100 FATAL    1 FragmentShaderArb with ID 677 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.101 INFO     1 Program 678 has been succesfully linked 
+22.03.2019 01:20:12.106 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.118 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.121 INFO     1 VertexShader with ID 679 has been succesfully compiled 
+22.03.2019 01:20:12.121 FATAL    1 FragmentShaderArb with ID 680 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.121 INFO     1 Program 681 has been succesfully linked 
+22.03.2019 01:20:12.126 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.135 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.138 INFO     1 VertexShader with ID 682 has been succesfully compiled 
+22.03.2019 01:20:12.138 FATAL    1 FragmentShaderArb with ID 683 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.138 INFO     1 Program 684 has been succesfully linked 
+22.03.2019 01:20:12.143 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.154 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.157 INFO     1 VertexShader with ID 685 has been succesfully compiled 
+22.03.2019 01:20:12.157 FATAL    1 FragmentShaderArb with ID 686 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.157 INFO     1 Program 687 has been succesfully linked 
+22.03.2019 01:20:12.162 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.171 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.174 INFO     1 VertexShader with ID 688 has been succesfully compiled 
+22.03.2019 01:20:12.174 FATAL    1 FragmentShaderArb with ID 689 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.174 INFO     1 Program 690 has been succesfully linked 
+22.03.2019 01:20:12.179 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.188 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.191 INFO     1 VertexShader with ID 691 has been succesfully compiled 
+22.03.2019 01:20:12.191 FATAL    1 FragmentShaderArb with ID 692 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.191 INFO     1 Program 693 has been succesfully linked 
+22.03.2019 01:20:12.196 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.204 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.208 INFO     1 VertexShader with ID 694 has been succesfully compiled 
+22.03.2019 01:20:12.208 FATAL    1 FragmentShaderArb with ID 695 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.208 INFO     1 Program 696 has been succesfully linked 
+22.03.2019 01:20:12.215 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.228 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.233 INFO     1 VertexShader with ID 697 has been succesfully compiled 
+22.03.2019 01:20:12.233 FATAL    1 FragmentShaderArb with ID 698 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.233 INFO     1 Program 699 has been succesfully linked 
+22.03.2019 01:20:12.239 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.250 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.253 INFO     1 VertexShader with ID 700 has been succesfully compiled 
+22.03.2019 01:20:12.253 FATAL    1 FragmentShaderArb with ID 701 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.253 INFO     1 Program 702 has been succesfully linked 
+22.03.2019 01:20:12.258 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.268 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.270 INFO     1 VertexShader with ID 703 has been succesfully compiled 
+22.03.2019 01:20:12.271 FATAL    1 FragmentShaderArb with ID 704 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.271 INFO     1 Program 705 has been succesfully linked 
+22.03.2019 01:20:12.276 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.285 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.289 INFO     1 VertexShader with ID 706 has been succesfully compiled 
+22.03.2019 01:20:12.290 FATAL    1 FragmentShaderArb with ID 707 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.290 INFO     1 Program 708 has been succesfully linked 
+22.03.2019 01:20:12.294 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.303 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.307 INFO     1 VertexShader with ID 709 has been succesfully compiled 
+22.03.2019 01:20:12.307 FATAL    1 FragmentShaderArb with ID 710 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.307 INFO     1 Program 711 has been succesfully linked 
+22.03.2019 01:20:12.313 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.321 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.325 INFO     1 VertexShader with ID 712 has been succesfully compiled 
+22.03.2019 01:20:12.325 FATAL    1 FragmentShaderArb with ID 713 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.325 INFO     1 Program 714 has been succesfully linked 
+22.03.2019 01:20:12.332 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.341 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.345 INFO     1 VertexShader with ID 715 has been succesfully compiled 
+22.03.2019 01:20:12.346 FATAL    1 FragmentShaderArb with ID 716 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.346 INFO     1 Program 717 has been succesfully linked 
+22.03.2019 01:20:12.351 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.360 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.362 INFO     1 VertexShader with ID 718 has been succesfully compiled 
+22.03.2019 01:20:12.363 FATAL    1 FragmentShaderArb with ID 719 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.363 INFO     1 Program 720 has been succesfully linked 
+22.03.2019 01:20:12.368 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.377 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.379 INFO     1 VertexShader with ID 721 has been succesfully compiled 
+22.03.2019 01:20:12.380 FATAL    1 FragmentShaderArb with ID 722 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.380 INFO     1 Program 723 has been succesfully linked 
+22.03.2019 01:20:12.385 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.395 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.397 INFO     1 VertexShader with ID 724 has been succesfully compiled 
+22.03.2019 01:20:12.397 FATAL    1 FragmentShaderArb with ID 725 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.397 INFO     1 Program 726 has been succesfully linked 
+22.03.2019 01:20:12.402 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.413 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.415 INFO     1 VertexShader with ID 727 has been succesfully compiled 
+22.03.2019 01:20:12.415 FATAL    1 FragmentShaderArb with ID 728 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.415 INFO     1 Program 729 has been succesfully linked 
+22.03.2019 01:20:12.419 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.429 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.433 INFO     1 VertexShader with ID 730 has been succesfully compiled 
+22.03.2019 01:20:12.434 FATAL    1 FragmentShaderArb with ID 731 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.434 INFO     1 Program 732 has been succesfully linked 
+22.03.2019 01:20:12.438 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.448 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:20:12.451 INFO     1 VertexShader with ID 733 has been succesfully compiled 
+22.03.2019 01:20:12.451 FATAL    1 FragmentShaderArb with ID 734 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:20:12.451 INFO     1 Program 735 has been succesfully linked 
+22.03.2019 01:20:12.456 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:20:12.466 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:21:11.942 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:21:11.959 FATAL    1 FragmentShaderArb with ID 2 0:12(1): error: syntax error, unexpected VOID_TOK, expecting ',' or ';'
+ 
+22.03.2019 01:21:11.961 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:21:12.265 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:21:12.293 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:21:26.716 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:21:26.736 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:21:26.795 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:21:26.965 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:21:27.005 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:22:22.892 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:22:22.905 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:22:22.907 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:22:23.043 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:22:23.077 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:23:58.469 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:23:58.482 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:23:58.484 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:23:58.613 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.642 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.657 INFO     1 VertexShader with ID 4 has been succesfully compiled 
+22.03.2019 01:23:58.657 INFO     1 FragmentShaderArb with ID 5 has been succesfully compiled 
+22.03.2019 01:23:58.657 INFO     1 Program 6 has been succesfully linked 
+22.03.2019 01:23:58.664 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.674 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.677 INFO     1 VertexShader with ID 7 has been succesfully compiled 
+22.03.2019 01:23:58.677 INFO     1 FragmentShaderArb with ID 8 has been succesfully compiled 
+22.03.2019 01:23:58.677 INFO     1 Program 9 has been succesfully linked 
+22.03.2019 01:23:58.681 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.693 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.698 INFO     1 VertexShader with ID 10 has been succesfully compiled 
+22.03.2019 01:23:58.699 INFO     1 FragmentShaderArb with ID 11 has been succesfully compiled 
+22.03.2019 01:23:58.699 INFO     1 Program 12 has been succesfully linked 
+22.03.2019 01:23:58.703 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.715 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.718 INFO     1 VertexShader with ID 13 has been succesfully compiled 
+22.03.2019 01:23:58.718 INFO     1 FragmentShaderArb with ID 14 has been succesfully compiled 
+22.03.2019 01:23:58.718 INFO     1 Program 15 has been succesfully linked 
+22.03.2019 01:23:58.723 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.734 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.738 INFO     1 VertexShader with ID 16 has been succesfully compiled 
+22.03.2019 01:23:58.738 INFO     1 FragmentShaderArb with ID 17 has been succesfully compiled 
+22.03.2019 01:23:58.738 INFO     1 Program 18 has been succesfully linked 
+22.03.2019 01:23:58.744 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.758 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.762 INFO     1 VertexShader with ID 19 has been succesfully compiled 
+22.03.2019 01:23:58.762 INFO     1 FragmentShaderArb with ID 20 has been succesfully compiled 
+22.03.2019 01:23:58.762 INFO     1 Program 21 has been succesfully linked 
+22.03.2019 01:23:58.769 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.781 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.785 INFO     1 VertexShader with ID 22 has been succesfully compiled 
+22.03.2019 01:23:58.785 INFO     1 FragmentShaderArb with ID 23 has been succesfully compiled 
+22.03.2019 01:23:58.786 INFO     1 Program 24 has been succesfully linked 
+22.03.2019 01:23:58.792 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.804 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.810 INFO     1 VertexShader with ID 25 has been succesfully compiled 
+22.03.2019 01:23:58.810 INFO     1 FragmentShaderArb with ID 26 has been succesfully compiled 
+22.03.2019 01:23:58.810 INFO     1 Program 27 has been succesfully linked 
+22.03.2019 01:23:58.818 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.828 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.832 INFO     1 VertexShader with ID 28 has been succesfully compiled 
+22.03.2019 01:23:58.832 INFO     1 FragmentShaderArb with ID 29 has been succesfully compiled 
+22.03.2019 01:23:58.832 INFO     1 Program 30 has been succesfully linked 
+22.03.2019 01:23:58.837 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.848 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.852 INFO     1 VertexShader with ID 31 has been succesfully compiled 
+22.03.2019 01:23:58.852 INFO     1 FragmentShaderArb with ID 32 has been succesfully compiled 
+22.03.2019 01:23:58.852 INFO     1 Program 33 has been succesfully linked 
+22.03.2019 01:23:58.858 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.868 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.874 INFO     1 VertexShader with ID 34 has been succesfully compiled 
+22.03.2019 01:23:58.874 INFO     1 FragmentShaderArb with ID 35 has been succesfully compiled 
+22.03.2019 01:23:58.874 INFO     1 Program 36 has been succesfully linked 
+22.03.2019 01:23:58.880 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.890 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.893 INFO     1 VertexShader with ID 37 has been succesfully compiled 
+22.03.2019 01:23:58.893 INFO     1 FragmentShaderArb with ID 38 has been succesfully compiled 
+22.03.2019 01:23:58.894 INFO     1 Program 39 has been succesfully linked 
+22.03.2019 01:23:58.900 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.909 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.913 INFO     1 VertexShader with ID 40 has been succesfully compiled 
+22.03.2019 01:23:58.913 INFO     1 FragmentShaderArb with ID 41 has been succesfully compiled 
+22.03.2019 01:23:58.913 INFO     1 Program 42 has been succesfully linked 
+22.03.2019 01:23:58.918 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.928 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.932 INFO     1 VertexShader with ID 43 has been succesfully compiled 
+22.03.2019 01:23:58.932 INFO     1 FragmentShaderArb with ID 44 has been succesfully compiled 
+22.03.2019 01:23:58.932 INFO     1 Program 45 has been succesfully linked 
+22.03.2019 01:23:58.938 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.948 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.952 INFO     1 VertexShader with ID 46 has been succesfully compiled 
+22.03.2019 01:23:58.952 INFO     1 FragmentShaderArb with ID 47 has been succesfully compiled 
+22.03.2019 01:23:58.952 INFO     1 Program 48 has been succesfully linked 
+22.03.2019 01:23:58.956 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.967 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.971 INFO     1 VertexShader with ID 49 has been succesfully compiled 
+22.03.2019 01:23:58.971 INFO     1 FragmentShaderArb with ID 50 has been succesfully compiled 
+22.03.2019 01:23:58.972 INFO     1 Program 51 has been succesfully linked 
+22.03.2019 01:23:58.977 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:58.985 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:58.989 INFO     1 VertexShader with ID 52 has been succesfully compiled 
+22.03.2019 01:23:58.989 INFO     1 FragmentShaderArb with ID 53 has been succesfully compiled 
+22.03.2019 01:23:58.989 INFO     1 Program 54 has been succesfully linked 
+22.03.2019 01:23:58.996 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.006 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.011 INFO     1 VertexShader with ID 55 has been succesfully compiled 
+22.03.2019 01:23:59.011 INFO     1 FragmentShaderArb with ID 56 has been succesfully compiled 
+22.03.2019 01:23:59.011 INFO     1 Program 57 has been succesfully linked 
+22.03.2019 01:23:59.017 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.026 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.032 INFO     1 VertexShader with ID 58 has been succesfully compiled 
+22.03.2019 01:23:59.032 INFO     1 FragmentShaderArb with ID 59 has been succesfully compiled 
+22.03.2019 01:23:59.032 INFO     1 Program 60 has been succesfully linked 
+22.03.2019 01:23:59.036 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.046 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.050 INFO     1 VertexShader with ID 61 has been succesfully compiled 
+22.03.2019 01:23:59.050 INFO     1 FragmentShaderArb with ID 62 has been succesfully compiled 
+22.03.2019 01:23:59.050 INFO     1 Program 63 has been succesfully linked 
+22.03.2019 01:23:59.055 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.065 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.068 INFO     1 VertexShader with ID 64 has been succesfully compiled 
+22.03.2019 01:23:59.068 INFO     1 FragmentShaderArb with ID 65 has been succesfully compiled 
+22.03.2019 01:23:59.068 INFO     1 Program 66 has been succesfully linked 
+22.03.2019 01:23:59.074 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.082 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.085 INFO     1 VertexShader with ID 67 has been succesfully compiled 
+22.03.2019 01:23:59.087 INFO     1 FragmentShaderArb with ID 68 has been succesfully compiled 
+22.03.2019 01:23:59.087 INFO     1 Program 69 has been succesfully linked 
+22.03.2019 01:23:59.093 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.102 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.104 INFO     1 VertexShader with ID 70 has been succesfully compiled 
+22.03.2019 01:23:59.104 INFO     1 FragmentShaderArb with ID 71 has been succesfully compiled 
+22.03.2019 01:23:59.104 INFO     1 Program 72 has been succesfully linked 
+22.03.2019 01:23:59.109 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.123 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.126 INFO     1 VertexShader with ID 73 has been succesfully compiled 
+22.03.2019 01:23:59.126 INFO     1 FragmentShaderArb with ID 74 has been succesfully compiled 
+22.03.2019 01:23:59.126 INFO     1 Program 75 has been succesfully linked 
+22.03.2019 01:23:59.133 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.140 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.143 INFO     1 VertexShader with ID 76 has been succesfully compiled 
+22.03.2019 01:23:59.143 INFO     1 FragmentShaderArb with ID 77 has been succesfully compiled 
+22.03.2019 01:23:59.143 INFO     1 Program 78 has been succesfully linked 
+22.03.2019 01:23:59.149 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.161 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.163 INFO     1 VertexShader with ID 79 has been succesfully compiled 
+22.03.2019 01:23:59.163 INFO     1 FragmentShaderArb with ID 80 has been succesfully compiled 
+22.03.2019 01:23:59.163 INFO     1 Program 81 has been succesfully linked 
+22.03.2019 01:23:59.167 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.180 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.182 INFO     1 VertexShader with ID 82 has been succesfully compiled 
+22.03.2019 01:23:59.183 INFO     1 FragmentShaderArb with ID 83 has been succesfully compiled 
+22.03.2019 01:23:59.183 INFO     1 Program 84 has been succesfully linked 
+22.03.2019 01:23:59.187 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.199 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.202 INFO     1 VertexShader with ID 85 has been succesfully compiled 
+22.03.2019 01:23:59.202 INFO     1 FragmentShaderArb with ID 86 has been succesfully compiled 
+22.03.2019 01:23:59.202 INFO     1 Program 87 has been succesfully linked 
+22.03.2019 01:23:59.206 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.218 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.221 INFO     1 VertexShader with ID 88 has been succesfully compiled 
+22.03.2019 01:23:59.221 INFO     1 FragmentShaderArb with ID 89 has been succesfully compiled 
+22.03.2019 01:23:59.221 INFO     1 Program 90 has been succesfully linked 
+22.03.2019 01:23:59.228 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.242 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.246 INFO     1 VertexShader with ID 91 has been succesfully compiled 
+22.03.2019 01:23:59.247 INFO     1 FragmentShaderArb with ID 92 has been succesfully compiled 
+22.03.2019 01:23:59.247 INFO     1 Program 93 has been succesfully linked 
+22.03.2019 01:23:59.253 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.263 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.265 INFO     1 VertexShader with ID 94 has been succesfully compiled 
+22.03.2019 01:23:59.266 INFO     1 FragmentShaderArb with ID 95 has been succesfully compiled 
+22.03.2019 01:23:59.266 INFO     1 Program 96 has been succesfully linked 
+22.03.2019 01:23:59.270 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.280 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.283 INFO     1 VertexShader with ID 97 has been succesfully compiled 
+22.03.2019 01:23:59.283 INFO     1 FragmentShaderArb with ID 98 has been succesfully compiled 
+22.03.2019 01:23:59.283 INFO     1 Program 99 has been succesfully linked 
+22.03.2019 01:23:59.290 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.302 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.307 INFO     1 VertexShader with ID 100 has been succesfully compiled 
+22.03.2019 01:23:59.307 INFO     1 FragmentShaderArb with ID 101 has been succesfully compiled 
+22.03.2019 01:23:59.307 INFO     1 Program 102 has been succesfully linked 
+22.03.2019 01:23:59.313 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.322 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.324 INFO     1 VertexShader with ID 103 has been succesfully compiled 
+22.03.2019 01:23:59.325 INFO     1 FragmentShaderArb with ID 104 has been succesfully compiled 
+22.03.2019 01:23:59.325 INFO     1 Program 105 has been succesfully linked 
+22.03.2019 01:23:59.330 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.340 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.343 INFO     1 VertexShader with ID 106 has been succesfully compiled 
+22.03.2019 01:23:59.343 INFO     1 FragmentShaderArb with ID 107 has been succesfully compiled 
+22.03.2019 01:23:59.343 INFO     1 Program 108 has been succesfully linked 
+22.03.2019 01:23:59.348 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.357 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.359 INFO     1 VertexShader with ID 109 has been succesfully compiled 
+22.03.2019 01:23:59.359 INFO     1 FragmentShaderArb with ID 110 has been succesfully compiled 
+22.03.2019 01:23:59.359 INFO     1 Program 111 has been succesfully linked 
+22.03.2019 01:23:59.364 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.372 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.376 INFO     1 VertexShader with ID 112 has been succesfully compiled 
+22.03.2019 01:23:59.376 INFO     1 FragmentShaderArb with ID 113 has been succesfully compiled 
+22.03.2019 01:23:59.376 INFO     1 Program 114 has been succesfully linked 
+22.03.2019 01:23:59.382 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.391 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.394 INFO     1 VertexShader with ID 115 has been succesfully compiled 
+22.03.2019 01:23:59.394 INFO     1 FragmentShaderArb with ID 116 has been succesfully compiled 
+22.03.2019 01:23:59.394 INFO     1 Program 117 has been succesfully linked 
+22.03.2019 01:23:59.400 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.408 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.411 INFO     1 VertexShader with ID 118 has been succesfully compiled 
+22.03.2019 01:23:59.411 INFO     1 FragmentShaderArb with ID 119 has been succesfully compiled 
+22.03.2019 01:23:59.412 INFO     1 Program 120 has been succesfully linked 
+22.03.2019 01:23:59.417 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.426 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.430 INFO     1 VertexShader with ID 121 has been succesfully compiled 
+22.03.2019 01:23:59.430 INFO     1 FragmentShaderArb with ID 122 has been succesfully compiled 
+22.03.2019 01:23:59.430 INFO     1 Program 123 has been succesfully linked 
+22.03.2019 01:23:59.436 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.445 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.447 INFO     1 VertexShader with ID 124 has been succesfully compiled 
+22.03.2019 01:23:59.447 INFO     1 FragmentShaderArb with ID 125 has been succesfully compiled 
+22.03.2019 01:23:59.448 INFO     1 Program 126 has been succesfully linked 
+22.03.2019 01:23:59.453 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.462 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.465 INFO     1 VertexShader with ID 127 has been succesfully compiled 
+22.03.2019 01:23:59.465 INFO     1 FragmentShaderArb with ID 128 has been succesfully compiled 
+22.03.2019 01:23:59.465 INFO     1 Program 129 has been succesfully linked 
+22.03.2019 01:23:59.469 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.480 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.483 INFO     1 VertexShader with ID 130 has been succesfully compiled 
+22.03.2019 01:23:59.483 INFO     1 FragmentShaderArb with ID 131 has been succesfully compiled 
+22.03.2019 01:23:59.483 INFO     1 Program 132 has been succesfully linked 
+22.03.2019 01:23:59.487 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.498 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.502 INFO     1 VertexShader with ID 133 has been succesfully compiled 
+22.03.2019 01:23:59.502 INFO     1 FragmentShaderArb with ID 134 has been succesfully compiled 
+22.03.2019 01:23:59.502 INFO     1 Program 135 has been succesfully linked 
+22.03.2019 01:23:59.506 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.518 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.521 INFO     1 VertexShader with ID 136 has been succesfully compiled 
+22.03.2019 01:23:59.521 INFO     1 FragmentShaderArb with ID 137 has been succesfully compiled 
+22.03.2019 01:23:59.521 INFO     1 Program 138 has been succesfully linked 
+22.03.2019 01:23:59.527 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.538 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.541 INFO     1 VertexShader with ID 139 has been succesfully compiled 
+22.03.2019 01:23:59.541 INFO     1 FragmentShaderArb with ID 140 has been succesfully compiled 
+22.03.2019 01:23:59.541 INFO     1 Program 141 has been succesfully linked 
+22.03.2019 01:23:59.546 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.556 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.559 INFO     1 VertexShader with ID 142 has been succesfully compiled 
+22.03.2019 01:23:59.560 INFO     1 FragmentShaderArb with ID 143 has been succesfully compiled 
+22.03.2019 01:23:59.560 INFO     1 Program 144 has been succesfully linked 
+22.03.2019 01:23:59.565 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.573 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.578 INFO     1 VertexShader with ID 145 has been succesfully compiled 
+22.03.2019 01:23:59.578 INFO     1 FragmentShaderArb with ID 146 has been succesfully compiled 
+22.03.2019 01:23:59.578 INFO     1 Program 147 has been succesfully linked 
+22.03.2019 01:23:59.583 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.592 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.596 INFO     1 VertexShader with ID 148 has been succesfully compiled 
+22.03.2019 01:23:59.596 INFO     1 FragmentShaderArb with ID 149 has been succesfully compiled 
+22.03.2019 01:23:59.596 INFO     1 Program 150 has been succesfully linked 
+22.03.2019 01:23:59.601 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.611 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.615 INFO     1 VertexShader with ID 151 has been succesfully compiled 
+22.03.2019 01:23:59.616 INFO     1 FragmentShaderArb with ID 152 has been succesfully compiled 
+22.03.2019 01:23:59.616 INFO     1 Program 153 has been succesfully linked 
+22.03.2019 01:23:59.620 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.629 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.632 INFO     1 VertexShader with ID 154 has been succesfully compiled 
+22.03.2019 01:23:59.632 INFO     1 FragmentShaderArb with ID 155 has been succesfully compiled 
+22.03.2019 01:23:59.633 INFO     1 Program 156 has been succesfully linked 
+22.03.2019 01:23:59.638 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.648 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.650 INFO     1 VertexShader with ID 157 has been succesfully compiled 
+22.03.2019 01:23:59.650 INFO     1 FragmentShaderArb with ID 158 has been succesfully compiled 
+22.03.2019 01:23:59.651 INFO     1 Program 159 has been succesfully linked 
+22.03.2019 01:23:59.656 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.666 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.669 INFO     1 VertexShader with ID 160 has been succesfully compiled 
+22.03.2019 01:23:59.669 INFO     1 FragmentShaderArb with ID 161 has been succesfully compiled 
+22.03.2019 01:23:59.669 INFO     1 Program 162 has been succesfully linked 
+22.03.2019 01:23:59.674 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.684 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.687 INFO     1 VertexShader with ID 163 has been succesfully compiled 
+22.03.2019 01:23:59.687 INFO     1 FragmentShaderArb with ID 164 has been succesfully compiled 
+22.03.2019 01:23:59.688 INFO     1 Program 165 has been succesfully linked 
+22.03.2019 01:23:59.692 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.704 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.706 INFO     1 VertexShader with ID 166 has been succesfully compiled 
+22.03.2019 01:23:59.707 INFO     1 FragmentShaderArb with ID 167 has been succesfully compiled 
+22.03.2019 01:23:59.707 INFO     1 Program 168 has been succesfully linked 
+22.03.2019 01:23:59.713 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.722 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.725 INFO     1 VertexShader with ID 169 has been succesfully compiled 
+22.03.2019 01:23:59.725 INFO     1 FragmentShaderArb with ID 170 has been succesfully compiled 
+22.03.2019 01:23:59.725 INFO     1 Program 171 has been succesfully linked 
+22.03.2019 01:23:59.730 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.740 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.742 INFO     1 VertexShader with ID 172 has been succesfully compiled 
+22.03.2019 01:23:59.742 INFO     1 FragmentShaderArb with ID 173 has been succesfully compiled 
+22.03.2019 01:23:59.743 INFO     1 Program 174 has been succesfully linked 
+22.03.2019 01:23:59.747 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.757 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.761 INFO     1 VertexShader with ID 175 has been succesfully compiled 
+22.03.2019 01:23:59.762 INFO     1 FragmentShaderArb with ID 176 has been succesfully compiled 
+22.03.2019 01:23:59.762 INFO     1 Program 177 has been succesfully linked 
+22.03.2019 01:23:59.766 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.775 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.779 INFO     1 VertexShader with ID 178 has been succesfully compiled 
+22.03.2019 01:23:59.779 INFO     1 FragmentShaderArb with ID 179 has been succesfully compiled 
+22.03.2019 01:23:59.779 INFO     1 Program 180 has been succesfully linked 
+22.03.2019 01:23:59.784 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.794 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.798 INFO     1 VertexShader with ID 181 has been succesfully compiled 
+22.03.2019 01:23:59.798 INFO     1 FragmentShaderArb with ID 182 has been succesfully compiled 
+22.03.2019 01:23:59.798 INFO     1 Program 183 has been succesfully linked 
+22.03.2019 01:23:59.803 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.813 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.817 INFO     1 VertexShader with ID 184 has been succesfully compiled 
+22.03.2019 01:23:59.818 INFO     1 FragmentShaderArb with ID 185 has been succesfully compiled 
+22.03.2019 01:23:59.818 INFO     1 Program 186 has been succesfully linked 
+22.03.2019 01:23:59.822 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.833 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.837 INFO     1 VertexShader with ID 187 has been succesfully compiled 
+22.03.2019 01:23:59.837 INFO     1 FragmentShaderArb with ID 188 has been succesfully compiled 
+22.03.2019 01:23:59.837 INFO     1 Program 189 has been succesfully linked 
+22.03.2019 01:23:59.842 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.851 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.855 INFO     1 VertexShader with ID 190 has been succesfully compiled 
+22.03.2019 01:23:59.855 INFO     1 FragmentShaderArb with ID 191 has been succesfully compiled 
+22.03.2019 01:23:59.855 INFO     1 Program 192 has been succesfully linked 
+22.03.2019 01:23:59.861 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.870 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.873 INFO     1 VertexShader with ID 193 has been succesfully compiled 
+22.03.2019 01:23:59.873 INFO     1 FragmentShaderArb with ID 194 has been succesfully compiled 
+22.03.2019 01:23:59.873 INFO     1 Program 195 has been succesfully linked 
+22.03.2019 01:23:59.879 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.889 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.892 INFO     1 VertexShader with ID 196 has been succesfully compiled 
+22.03.2019 01:23:59.892 INFO     1 FragmentShaderArb with ID 197 has been succesfully compiled 
+22.03.2019 01:23:59.892 INFO     1 Program 198 has been succesfully linked 
+22.03.2019 01:23:59.898 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.908 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.913 INFO     1 VertexShader with ID 199 has been succesfully compiled 
+22.03.2019 01:23:59.913 INFO     1 FragmentShaderArb with ID 200 has been succesfully compiled 
+22.03.2019 01:23:59.913 INFO     1 Program 201 has been succesfully linked 
+22.03.2019 01:23:59.918 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.928 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.930 INFO     1 VertexShader with ID 202 has been succesfully compiled 
+22.03.2019 01:23:59.931 INFO     1 FragmentShaderArb with ID 203 has been succesfully compiled 
+22.03.2019 01:23:59.931 INFO     1 Program 204 has been succesfully linked 
+22.03.2019 01:23:59.936 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.947 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.949 INFO     1 VertexShader with ID 205 has been succesfully compiled 
+22.03.2019 01:23:59.950 INFO     1 FragmentShaderArb with ID 206 has been succesfully compiled 
+22.03.2019 01:23:59.950 INFO     1 Program 207 has been succesfully linked 
+22.03.2019 01:23:59.955 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.965 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.968 INFO     1 VertexShader with ID 208 has been succesfully compiled 
+22.03.2019 01:23:59.969 INFO     1 FragmentShaderArb with ID 209 has been succesfully compiled 
+22.03.2019 01:23:59.969 INFO     1 Program 210 has been succesfully linked 
+22.03.2019 01:23:59.973 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:23:59.983 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:23:59.989 INFO     1 VertexShader with ID 211 has been succesfully compiled 
+22.03.2019 01:23:59.989 INFO     1 FragmentShaderArb with ID 212 has been succesfully compiled 
+22.03.2019 01:23:59.989 INFO     1 Program 213 has been succesfully linked 
+22.03.2019 01:23:59.994 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.004 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.008 INFO     1 VertexShader with ID 214 has been succesfully compiled 
+22.03.2019 01:24:00.009 INFO     1 FragmentShaderArb with ID 215 has been succesfully compiled 
+22.03.2019 01:24:00.009 INFO     1 Program 216 has been succesfully linked 
+22.03.2019 01:24:00.015 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.028 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.031 INFO     1 VertexShader with ID 217 has been succesfully compiled 
+22.03.2019 01:24:00.031 INFO     1 FragmentShaderArb with ID 218 has been succesfully compiled 
+22.03.2019 01:24:00.031 INFO     1 Program 219 has been succesfully linked 
+22.03.2019 01:24:00.036 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.048 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.050 INFO     1 VertexShader with ID 220 has been succesfully compiled 
+22.03.2019 01:24:00.051 INFO     1 FragmentShaderArb with ID 221 has been succesfully compiled 
+22.03.2019 01:24:00.051 INFO     1 Program 222 has been succesfully linked 
+22.03.2019 01:24:00.055 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.067 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.069 INFO     1 VertexShader with ID 223 has been succesfully compiled 
+22.03.2019 01:24:00.070 INFO     1 FragmentShaderArb with ID 224 has been succesfully compiled 
+22.03.2019 01:24:00.070 INFO     1 Program 225 has been succesfully linked 
+22.03.2019 01:24:00.074 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.087 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.090 INFO     1 VertexShader with ID 226 has been succesfully compiled 
+22.03.2019 01:24:00.090 INFO     1 FragmentShaderArb with ID 227 has been succesfully compiled 
+22.03.2019 01:24:00.090 INFO     1 Program 228 has been succesfully linked 
+22.03.2019 01:24:00.094 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.104 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.108 INFO     1 VertexShader with ID 229 has been succesfully compiled 
+22.03.2019 01:24:00.108 INFO     1 FragmentShaderArb with ID 230 has been succesfully compiled 
+22.03.2019 01:24:00.108 INFO     1 Program 231 has been succesfully linked 
+22.03.2019 01:24:00.113 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.123 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.127 INFO     1 VertexShader with ID 232 has been succesfully compiled 
+22.03.2019 01:24:00.127 INFO     1 FragmentShaderArb with ID 233 has been succesfully compiled 
+22.03.2019 01:24:00.127 INFO     1 Program 234 has been succesfully linked 
+22.03.2019 01:24:00.132 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.143 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.149 INFO     1 VertexShader with ID 235 has been succesfully compiled 
+22.03.2019 01:24:00.149 INFO     1 FragmentShaderArb with ID 236 has been succesfully compiled 
+22.03.2019 01:24:00.149 INFO     1 Program 237 has been succesfully linked 
+22.03.2019 01:24:00.154 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.163 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.167 INFO     1 VertexShader with ID 238 has been succesfully compiled 
+22.03.2019 01:24:00.167 INFO     1 FragmentShaderArb with ID 239 has been succesfully compiled 
+22.03.2019 01:24:00.167 INFO     1 Program 240 has been succesfully linked 
+22.03.2019 01:24:00.172 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.182 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+22.03.2019 01:24:00.185 INFO     1 VertexShader with ID 241 has been succesfully compiled 
+22.03.2019 01:24:00.185 INFO     1 FragmentShaderArb with ID 242 has been succesfully compiled 
+22.03.2019 01:24:00.185 INFO     1 Program 243 has been succesfully linked 
+22.03.2019 01:24:00.191 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:00.201 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:24:08.325 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:24:08.338 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:24:08.340 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:24:08.471 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:08.500 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:24:48.887 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:24:48.902 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:24:48.904 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:24:49.036 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:24:49.066 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:25:09.144 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:25:09.157 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:25:09.159 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:25:09.283 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:25:09.325 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:25:23.801 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:25:23.817 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:25:23.819 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:25:23.933 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:25:23.960 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:26:43.269 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:26:43.282 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:26:43.284 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:26:43.413 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:26:43.451 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:27:06.173 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:27:06.187 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:27:06.189 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:27:06.343 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:27:06.373 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:27:54.387 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:27:54.402 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:27:54.404 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:27:54.532 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:27:54.566 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:29:28.391 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:29:28.404 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:29:28.406 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:29:28.553 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:29:28.584 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:30:32.604 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:30:32.618 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:30:32.620 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:30:32.769 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:30:32.806 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:34:30.492 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:34:30.516 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:34:30.518 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:34:30.730 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:34:30.768 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:34:38.134 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:34:38.165 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:34:38.166 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:34:38.359 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:34:38.428 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:35:06.084 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:35:06.099 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:35:06.101 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:35:06.237 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:35:06.270 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:35:25.949 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:35:25.987 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:35:25.989 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:35:26.206 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:35:26.237 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:36:23.207 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:36:23.219 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:36:23.220 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:36:23.369 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:36:23.398 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:36:40.230 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:36:40.247 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:36:40.249 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:36:40.417 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:36:40.466 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:37:16.004 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:37:16.019 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:37:16.021 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:37:16.204 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:37:16.247 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+22.03.2019 01:40:31.409 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+22.03.2019 01:40:31.421 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+22.03.2019 01:40:31.423 INFO     1 Program 3 has been succesfully linked 
+22.03.2019 01:40:31.623 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+22.03.2019 01:40:31.667 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 

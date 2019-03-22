@@ -10,10 +10,9 @@ namespace ConsoleApp1
 {
     public static class Texture2D
     {
-        public static void BindToUniform(GlProgram program, string nameUniform, string pathToFile)
+        public static void BindToUniform(GlProgram program, string nameUniform, string pathToFile, params Action[] textureSettings)
         {
-            
-            GL.Uniform1(program.GetUniformLocation(nameUniform), LoadAndBindTexture(program, pathToFile));
+            GL.Uniform1(program.GetUniformLocation(nameUniform), LoadAndBindTexture(program, pathToFile, textureSettings));
         }
 
         public static void SetFilter(TextureMinFilter minFilter)
@@ -36,7 +35,7 @@ namespace ConsoleApp1
             GL.TexParameter(TextureTarget.Texture2D, TextureParameterName.TextureWrapT, (int) mode);
         }
 
-        private static int LoadAndBindTexture(GlProgram program,string filename)
+        private static int LoadAndBindTexture(GlProgram program, string filename, params Action[] settings)
         {
             (PixelInternalFormat, OpenTK.Graphics.OpenGL.PixelFormat) formats;
 
@@ -57,10 +56,8 @@ namespace ConsoleApp1
             
             GL.GenTextures(1, out int id);
             id -= 1;
-            SetFilter(TextureMinFilter.LinearMipmapLinear); //TODO Fix this shit
-            SetFilter(TextureMagFilter.Linear);
-            SetWrapModeX(TextureWrapMode.Repeat);
-            SetWrapModeY(TextureWrapMode.Repeat);
+            foreach (var setting in settings)
+                setting();
 
             GL.BindTexture(TextureTarget.Texture2D, id);
 

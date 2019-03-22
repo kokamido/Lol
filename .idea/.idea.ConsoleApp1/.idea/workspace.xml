@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="182481fc-24b9-4b85-890b-0ad2d818c76d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Data/Settings/log4net.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/GlProgram.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/MyLogger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Shader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/Texture2D.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Data/Shaders/FragmentShader" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Data/Shaders/FragmentShader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ShaderHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Shaders/FragmentShader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Shaders/VertexShader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Texture2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Texture2D.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/Shaders/FragmentShader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/Shaders/VertexShader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/Data/Shaders/FragmentShader" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.2/Data/Shaders/FragmentShader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb" afterDir="false" />
     </list>
@@ -32,45 +21,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
+            <state relative-caret-position="281">
+              <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
               <folding>
-                <marker date="1553182848352" expanded="false" signature="6:182" ph="..." />
-                <marker date="1553182848352" expanded="true" signature="206:4251" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="233:848" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="266:379" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="427:842" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="897:4249" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="1324:1463" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="1516:3998" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="1654:2097" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="2379:2477" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="4063:4096" ph="{...}" />
-                <marker date="1553182848352" expanded="true" signature="4163:4243" ph="{...}" />
+                <marker date="1553215227997" expanded="false" signature="6:202" ph="..." />
+                <marker date="1553215227997" expanded="true" signature="226:5280" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="253:868" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="286:399" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="447:862" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="917:5278" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="1430:1569" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="1622:4609" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="1760:2203" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="2485:2583" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="3690:3993" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="4674:4995" ph="{...}" />
+                <marker date="1553215227997" expanded="true" signature="5062:5272" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Texture2D.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="-30">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding>
-                <marker date="1553182848348" expanded="false" signature="6:296" ph="..." />
-                <marker date="1553182848348" expanded="true" signature="319:3648" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="355:3646" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="460:600" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="666:796" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="862:992" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="1055:1176" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="1239:1360" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="1442:3037" ph="{...}" />
-                <marker date="1553182848348" expanded="true" signature="3272:3516" ph="{...}" />
+                <marker date="1553213739837" expanded="false" signature="6:226" ph="..." />
+                <marker date="1553213739837" expanded="true" signature="249:3467" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="285:3465" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="423:567" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="633:763" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="829:959" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="1022:1143" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="1206:1327" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="1436:2856" ph="{...}" />
+                <marker date="1553213739837" expanded="true" signature="3091:3335" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -79,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D445438-1C38-4664-A332-4B84A03633E5/a7/2fb2878c/TextureUnit.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state>
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
@@ -88,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/MyLogger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="135">
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding>
                 <marker date="1553079827300" expanded="true" signature="37:226" ph="{...}" />
@@ -102,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/GlProgram.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="240">
               <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <marker date="1553172308311" expanded="false" signature="6:43" ph="..." />
@@ -118,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Shader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="495">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <marker date="1553079565326" expanded="false" signature="6:79" ph="..." />
@@ -137,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleApp1/Data/Shaders/FragmentShader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -192,17 +182,17 @@
         <option value="$PROJECT_DIR$/ConsoleApp1/Data/Settings/log4net.config" />
         <option value="$PROJECT_DIR$/ConsoleApp1/GlProgram.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/myapp.log" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Texture2D.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Data/Shaders/FragmentShader" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
-        <option value="$PROJECT_DIR$/ConsoleApp1/Texture2D.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+    <option name="x" value="282" />
+    <option name="y" value="108" />
+    <option name="width" value="917" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -322,11 +312,13 @@
       <workItem from="1553161950453" duration="7985000" />
       <workItem from="1553170458423" duration="5103000" />
       <workItem from="1553179979964" duration="3048000" />
+      <workItem from="1553213566998" duration="1104000" />
+      <workItem from="1553214856870" duration="923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63003000" />
+    <option name="totallyTimeSpent" value="65030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +337,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33045357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -365,7 +357,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.21361372" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.21804096" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -450,9 +442,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/myapp.log" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding>
+            <marker date="1553215227997" expanded="false" signature="6:202" ph="..." />
+            <marker date="1553215227997" expanded="true" signature="226:5280" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="253:868" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="286:399" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="447:862" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="917:5278" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="1430:1569" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="1622:4609" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="1760:2203" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="2485:2583" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="3690:3993" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="4674:4995" ph="{...}" />
+            <marker date="1553215227997" expanded="true" signature="5062:5272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Texture2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <marker date="1553213739837" expanded="false" signature="6:226" ph="..." />
+            <marker date="1553213739837" expanded="true" signature="249:3467" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="285:3465" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="423:567" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="633:763" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="829:959" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="1022:1143" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="1206:1327" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="1436:2856" ph="{...}" />
+            <marker date="1553213739837" expanded="true" signature="3091:3335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D445438-1C38-4664-A332-4B84A03633E5/a7/2fb2878c/TextureUnit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/MyLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <marker date="1553079827300" expanded="true" signature="37:226" ph="{...}" />
+            <marker date="1553079827300" expanded="true" signature="69:220" ph="{...}" />
+            <marker date="1553079827300" expanded="true" signature="139:214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/GlProgram.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="240">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
             <marker date="1553172308311" expanded="false" signature="6:43" ph="..." />
@@ -466,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Shader.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="495">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <marker date="1553079565326" expanded="false" signature="6:79" ph="..." />
@@ -481,32 +534,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/MyLogger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding>
-            <marker date="1553079827300" expanded="true" signature="37:226" ph="{...}" />
-            <marker date="1553079827300" expanded="true" signature="69:220" ph="{...}" />
-            <marker date="1553079827300" expanded="true" signature="139:214" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D445438-1C38-4664-A332-4B84A03633E5/a7/2fb2878c/TextureUnit.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/myapp.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp1/Data/Shaders/FragmentShader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -514,46 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="86" column="12" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
-          <folding>
-            <marker date="1553182848352" expanded="false" signature="6:182" ph="..." />
-            <marker date="1553182848352" expanded="true" signature="206:4251" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="233:848" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="266:379" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="427:842" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="897:4249" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="1324:1463" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="1516:3998" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="1654:2097" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="2379:2477" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="4063:4096" ph="{...}" />
-            <marker date="1553182848352" expanded="true" signature="4163:4243" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Texture2D.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <marker date="1553182848348" expanded="false" signature="6:296" ph="..." />
-            <marker date="1553182848348" expanded="true" signature="319:3648" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="355:3646" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="460:600" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="666:796" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="862:992" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="1055:1176" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="1239:1360" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="1442:3037" ph="{...}" />
-            <marker date="1553182848348" expanded="true" signature="3272:3516" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>

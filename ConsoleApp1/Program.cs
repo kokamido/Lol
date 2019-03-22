@@ -3,6 +3,7 @@ using System.Drawing;
 using System.IO;
 using System.Reflection;
 using System.Xml;
+using log4net.Util;
 using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
@@ -17,7 +18,7 @@ namespace ConsoleApp1
         {
             ConfigureLogging();
             var a = new MainWindow();
-            a.Run(60);
+            a.Run(30);
         }
 
         private static void ConfigureLogging()
@@ -32,6 +33,9 @@ namespace ConsoleApp1
 
     public sealed class MainWindow : GameWindow
     {
+        private int loc;
+        private int ass;
+        private float coeff = 0.8f;
         public MainWindow()
             : base(800, // initial width
                 600, // initial height
@@ -84,10 +88,19 @@ namespace ConsoleApp1
             GL.BindVertexArray(0);
             
             GL.UseProgram(program.Id);
-            
-            Texture2D.BindToUniform(program,"ourTexture1",Path.Combine("Data", "Images", "container.jpg"));
-            Texture2D.BindToUniform(program,"ourTexture2",Path.Combine("Data", "Images", "awesomeface1.png"));
 
+            var textureSettings = new Action[]
+            {
+                () => Texture2D.SetFilter(TextureMinFilter.LinearMipmapLinear),
+                () => Texture2D.SetFilter(TextureMagFilter.Linear),
+                () => Texture2D.SetWrapModeX(TextureWrapMode.Repeat),
+                () => Texture2D.SetWrapModeY(TextureWrapMode.Repeat),
+            };
+            Texture2D.BindToUniform(program,"ourTexture1",Path.Combine("Data", "Images", "container.jpg"),textureSettings);
+            Texture2D.BindToUniform(program,"ourTexture2",Path.Combine("Data", "Images", "awesomeface1.png"),textureSettings);
+            loc = program.GetUniformLocation("mixCoeff");
+            GL.Uniform1(loc,0.8f);
+            ass = vaoYellow;
             GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.DrawArrays(PrimitiveType.Triangles,1,3);
@@ -99,13 +112,23 @@ namespace ConsoleApp1
 
         protected override void OnRenderFrame(FrameEventArgs e)
         {
-            
+            GL.Clear(ClearBufferMask.ColorBufferBit);
+            GL.Uniform1(loc,coeff);
+            GL.BindVertexArray(ass);
+            GL.DrawArrays(PrimitiveType.Triangles,0,3);
+            GL.DrawArrays(PrimitiveType.Triangles,1,3);
+            GL.BindVertexArray(0);
+            SwapBuffers();
         }
 
         protected override void OnKeyDown(KeyboardKeyEventArgs e)
         {
             if(e.Key == Key.Escape)
                 Exit();
+            if (e.Key == Key.Down)
+                coeff -= 0.1f;
+            if (e.Key == Key.Up)
+                coeff += 0.1f;
         }
     }
 }
