@@ -1,18 +1,27 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "4c7b892c4b8d605115537c810581f8a93f2cf3a7"
+    "signature": "af0cbfec88caf19ec89cddf879de79c7a241b20b"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "ConsoleApp1/1.0.0": {
         "dependencies": {
+          "GlmNet": "0.5.1",
           "OpenTK.NetStandard": "1.0.7-prerelease",
           "log4net": "2.0.8"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
+        }
+      },
+      "GlmNet/0.5.1": {
+        "runtime": {
+          "lib/net40/GlmNet.dll": {
+            "assemblyVersion": "0.5.1.0",
+            "fileVersion": "0.5.1.0"
+          }
         }
       },
       "log4net/2.0.8": {
@@ -908,6 +917,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "GlmNet/0.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FuFRnRobJX+PzG8kMBPsi/0Oy0wsg5R6dD4HVGjmAIpbYwsv9/quPrGzG6rbL44ic6zYsBm6xR5Uj50oqBAk7w==",
+      "path": "glmnet/0.5.1",
+      "hashPath": "glmnet.0.5.1.nupkg.sha512"
     },
     "log4net/2.0.8": {
       "type": "package",

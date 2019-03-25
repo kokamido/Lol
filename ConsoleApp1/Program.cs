@@ -2,8 +2,9 @@
 using System.Drawing;
 using System.IO;
 using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Xml;
-using log4net.Util;
+using GlmNet;
 using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
@@ -33,9 +34,9 @@ namespace ConsoleApp1
 
     public sealed class MainWindow : GameWindow
     {
-        private int loc;
-        private int ass;
-        private float coeff = 0.8f;
+        private GlProgram pr;
+        private float angle = 0;
+        private float scale = 0f;
         public MainWindow()
             : base(800, // initial width
                 600, // initial height
@@ -50,7 +51,7 @@ namespace ConsoleApp1
             Title += ": OpenGL Version: " + GL.GetString(StringName.Version) + "GLORY FOR UKRAINE! GLORY FOR HEROES!";
         }
 
-        protected override void OnLoad(EventArgs e)
+        protected override unsafe void OnLoad(EventArgs e)
         {   
             GL.ClearColor(Color.Teal);
             GL.Clear(ClearBufferMask.ColorBufferBit);
@@ -62,14 +63,16 @@ namespace ConsoleApp1
                 -0.5f,  0.5f, 0.0f,   1.0f, 1.0f, 0.0f,   0.0f, 1.0f,  // Top Left
                 
             };
-
-            GlProgram program;
-
+            
+            
+            
             using (var vertexShader = new Shader(ShaderType.VertexShader,Path.Combine("Data","Shaders","VertexShader")))
             using (var fragmentShader = new Shader(ShaderType.FragmentShader,Path.Combine("Data","Shaders","FragmentShader")))
             {
-                program = new GlProgram(vertexShader,fragmentShader);
+                pr = new GlProgram(vertexShader,fragmentShader);
             }
+
+            
                         
             int vbo1 = GL.GenBuffer();
             GL.BindBuffer(BufferTarget.ArrayBuffer, vbo1);
@@ -87,8 +90,12 @@ namespace ConsoleApp1
             GL.EnableVertexAttribArray(2);
             GL.BindVertexArray(0);
             
-            GL.UseProgram(program.Id);
-
+            GL.UseProgram(pr.Id);
+            mat4 trans = new mat4(1f);
+            trans = glm.rotate(trans, angle, new vec3(0.0f, 0.0f, 1.0f));
+            trans = glm.scale(trans, new vec3(0.5f, 0.5f, 0.5f));
+            var sas = GlmHelper.Convert(trans);
+            GL.UniformMatrix4(pr.GetUniformLocation("transform"),false, ref sas);
             var textureSettings = new Action[]
             {
                 () => Texture2D.SetFilter(TextureMinFilter.LinearMipmapLinear),
@@ -96,16 +103,12 @@ namespace ConsoleApp1
                 () => Texture2D.SetWrapModeX(TextureWrapMode.Repeat),
                 () => Texture2D.SetWrapModeY(TextureWrapMode.Repeat),
             };
-            Texture2D.BindToUniform(program,"ourTexture1",Path.Combine("Data", "Images", "container.jpg"),textureSettings);
-            Texture2D.BindToUniform(program,"ourTexture2",Path.Combine("Data", "Images", "awesomeface1.png"),textureSettings);
-            loc = program.GetUniformLocation("mixCoeff");
-            GL.Uniform1(loc,0.8f);
-            ass = vaoYellow;
+            Texture2D.BindToUniform(pr,"ourTexture1",Path.Combine("Data", "Images", "container.jpg"),textureSettings);
+            Texture2D.BindToUniform(pr,"ourTexture2",Path.Combine("Data", "Images", "awesomeface1.png"),textureSettings);
             GL.BindVertexArray(vaoYellow);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.DrawArrays(PrimitiveType.Triangles,1,3);
-            GL.BindVertexArray(0);
-
+            //GL.BindVertexArray(0);
              
             SwapBuffers();
         }
@@ -113,11 +116,17 @@ namespace ConsoleApp1
         protected override void OnRenderFrame(FrameEventArgs e)
         {
             GL.Clear(ClearBufferMask.ColorBufferBit);
-            GL.Uniform1(loc,coeff);
-            GL.BindVertexArray(ass);
+            angle = (angle+0.1f)%(2f*(float)Math.PI);
+            scale = (scale + 0.01f);
+            var sc = (float) Math.Sin(scale);
+           
+            mat4 trans = new mat4(1f);
+            trans = glm.rotate(trans, angle, new vec3(0.0f, 0.0f, 1.0f));
+            trans = glm.scale(trans, new vec3(sc, sc, sc));
+            var sas = GlmHelper.Convert(trans);
+            GL.UniformMatrix4(pr.GetUniformLocation("transform"),false, ref sas);
             GL.DrawArrays(PrimitiveType.Triangles,0,3);
             GL.DrawArrays(PrimitiveType.Triangles,1,3);
-            GL.BindVertexArray(0);
             SwapBuffers();
         }
 
@@ -125,10 +134,6 @@ namespace ConsoleApp1
         {
             if(e.Key == Key.Escape)
                 Exit();
-            if (e.Key == Key.Down)
-                coeff -= 0.1f;
-            if (e.Key == Key.Up)
-                coeff += 0.1f;
         }
     }
 }

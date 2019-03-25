@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "GlmNet/0.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/GlmNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/GlmNet.dll": {}
+        }
+      },
       "log4net/2.0.8": {
         "type": "package",
         "dependencies": {
@@ -1533,6 +1542,20 @@
     }
   },
   "libraries": {
+    "GlmNet/0.5.1": {
+      "sha512": "FuFRnRobJX+PzG8kMBPsi/0Oy0wsg5R6dD4HVGjmAIpbYwsv9/quPrGzG6rbL44ic6zYsBm6xR5Uj50oqBAk7w==",
+      "type": "package",
+      "path": "glmnet/0.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "glmnet.0.5.1.nupkg.sha512",
+        "glmnet.nuspec",
+        "lib/net40/GlmNet.XML",
+        "lib/net40/GlmNet.dll",
+        "lib/net40/GlmNet.pdb"
+      ]
+    },
     "log4net/2.0.8": {
       "sha512": "dwvu/YELc2nF5gjAnJMXJToYXVdK8Ma0BfLTEugMTM6l8kFysL9Np5LnwhUV6EKTkbRmVTa0/X1/8oSICcoHHw==",
       "type": "package",
@@ -5371,6 +5394,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "GlmNet >= 0.5.1",
       "Microsoft.NETCore.App >= 2.2.0",
       "OpenTK.NetStandard >= 1.0.7-prerelease",
       "log4net >= 2.0.8"
@@ -5415,6 +5439,10 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "GlmNet": {
+            "target": "Package",
+            "version": "[0.5.1, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
@@ -5437,5 +5465,17 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GlmNet 0.5.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "libraryId": "GlmNet",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
 }

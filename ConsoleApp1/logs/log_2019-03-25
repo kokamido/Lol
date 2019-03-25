@@ -1,0 +1,260 @@
+[Start of logging]
+25.03.2019 14:06:17.226 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:06:17.270 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:06:17.294 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:06:17.641 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:06:17.687 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:09:59.817 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:09:59.834 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:09:59.838 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:10:00.036 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:10:00.080 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:10:15.825 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:10:15.839 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:10:15.871 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:10:16.008 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:10:16.038 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:27:36.130 FATAL    1 VertexShader with ID 1 0:13(26): error: syntax error, unexpected BASIC_TYPE_TOK, expecting ',' or ';'
+ 
+25.03.2019 14:27:36.349 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:27:36.351 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:27:36.624 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:27:36.668 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:27:47.126 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:27:47.141 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:27:47.176 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:27:47.298 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:27:47.335 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:28:20.575 FATAL    1 VertexShader with ID 1 0:9(17): error: syntax error, unexpected NEW_IDENTIFIER, expecting '{'
+ 
+25.03.2019 14:28:20.595 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:28:20.597 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:28:20.733 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:28:20.766 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:28:32.055 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:28:32.069 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:28:32.071 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:28:32.207 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:28:32.238 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:30:36.647 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:30:36.663 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:30:36.665 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:30:36.829 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:30:36.856 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:30:45.233 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:30:45.250 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:30:45.254 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:30:45.411 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:30:45.451 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:31:43.011 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:31:43.021 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:31:43.023 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:31:43.156 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:31:43.184 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:31:55.133 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:31:55.143 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:31:55.145 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:31:55.265 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:31:55.292 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:33:04.241 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:33:04.255 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:33:04.257 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:33:04.368 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:33:04.398 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:33:49.924 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:33:49.938 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:33:49.940 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:33:50.078 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:33:50.105 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:37:33.978 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:37:33.991 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:37:33.993 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:37:34.144 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:37:34.189 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:38:46.628 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:38:46.645 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:38:46.647 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:38:46.814 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:38:46.880 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:39:12.859 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:39:12.871 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:39:12.873 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:39:13.049 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:39:13.093 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:40:17.391 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:40:17.403 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:40:17.405 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:40:17.515 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:40:17.546 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:42:19.342 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:42:19.356 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:42:19.358 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:42:19.490 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:42:19.524 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:43:45.883 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:43:45.893 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:43:45.895 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:43:46.060 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:43:46.103 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:43:55.527 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:43:55.538 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:43:55.540 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:43:55.695 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:43:55.728 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:44:31.718 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:44:31.734 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:44:31.736 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:44:31.867 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:44:31.898 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:45:06.230 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:45:06.245 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:45:06.247 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:45:06.365 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:45:06.400 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:45:15.824 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:45:15.836 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:45:15.838 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:45:15.965 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:45:15.994 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:45:36.143 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:45:36.159 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:45:36.161 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:45:36.287 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:45:36.318 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:45:51.444 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:45:51.454 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:45:51.456 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:45:51.594 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:45:51.625 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:46:06.210 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:46:06.225 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:46:06.227 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:46:06.368 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:46:06.400 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:46:16.087 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:46:16.097 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:46:16.099 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:46:16.224 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:46:16.254 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:46:26.205 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:46:26.219 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:46:26.221 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:46:26.346 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:46:26.375 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:46:37.522 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:46:37.536 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:46:37.538 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:46:37.661 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:46:37.688 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:47:24.032 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:47:24.046 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:47:24.048 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:47:24.202 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:47:24.230 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 14:58:44.183 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 14:58:44.198 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 14:58:44.200 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 14:58:44.323 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 14:58:44.354 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:01:06.403 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:01:06.418 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:01:06.420 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:01:06.569 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:01:06.608 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:01:18.728 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:01:18.743 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:01:18.745 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:01:18.887 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:01:18.920 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:01:59.700 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:01:59.715 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:01:59.717 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:01:59.855 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:01:59.895 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:02:20.760 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:02:20.775 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:02:20.777 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:02:20.921 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:02:20.957 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:02:36.979 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:02:36.991 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:02:36.993 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:02:37.146 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:02:37.177 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:05:25.565 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:05:25.580 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:05:25.582 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:05:25.761 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:05:25.790 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:05:36.746 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:05:36.761 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:05:36.763 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:05:36.919 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:05:36.947 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:06:07.326 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:06:07.339 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:06:07.341 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:06:07.478 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:06:07.514 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:07:28.209 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:07:28.221 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:07:28.223 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:07:28.361 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:07:28.391 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:07:51.834 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:07:51.848 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:07:51.850 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:07:51.996 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:07:52.027 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:09:31.010 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:09:31.025 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:09:31.028 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:09:31.157 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:09:31.188 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 
+[Start of logging]
+25.03.2019 15:09:45.122 INFO     1 VertexShader with ID 1 has been succesfully compiled 
+25.03.2019 15:09:45.135 INFO     1 FragmentShaderArb with ID 2 has been succesfully compiled 
+25.03.2019 15:09:45.137 INFO     1 Program 3 has been succesfully linked 
+25.03.2019 15:09:45.277 INFO     1 Texture from 'Data/Images/container.jpg' has been successfully loaded as 'Format24bppRgb' 
+25.03.2019 15:09:45.307 INFO     1 Texture from 'Data/Images/awesomeface1.png' has been successfully loaded as 'Format32bppArgb' 

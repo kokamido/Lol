@@ -26,6 +26,10 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "GlmNet": {
+          "target": "Package",
+          "version": "[0.5.1, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
